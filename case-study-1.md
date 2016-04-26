@@ -38,4 +38,4 @@ Although effective, the original manhole inspection process had room for improve
 
 Brown and Caldwell compared its effort collecting data from two similar sized catchments between the first and second phases. The team estimated it needed almost **30 percent fewer hours** to manage and QA the data using Fulcrum as part of its current workflow compared to the previous all-paper method. The use of Fulcrum has translated to lower costs for the County as well as accelerated delivery schedules.
 
-[0]: brownandcaldwell.com
+[0]: http://brownandcaldwell.com
