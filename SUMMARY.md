@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [The Value of Geospatial Data (infographic?)](the-value-of-geospatial-data.md)
 * ["Learning the Dialogue"](learning-the-dialogue-and-the-technology.md)
@@ -8,9 +9,10 @@
 * Building Your Survey (Guide with pictures)
 * Survey Best Practices
 * Guide to Field data collection
-* Case Study 2: Century - Project Management
+* [Case Study 2: Century - Project Management](case-study-2.md)
 * How to get more accurate data
 * Exporting data for further analysis
 * Advanced Tricks and Tactics/Tips for professional data collection / analysis
 * Case Study 3: Premier - Large Scale Data Collection
 * Appendix - Data Collection/GIS/Cartography/Research Terms
+
