@@ -6,7 +6,7 @@
 
 Engineers and technologists collaborating to provide comprehensive asset management solutions.
 
-![Century Engineering logo](http://fulcrumapp.com/assets/img/cases/ce-logo.png)
+<p style="text-align: center;"><img src="http://fulcrumapp.com/assets/img/cases/ce-logo.png" alt="Century Engineering logo"</p>
 
 Our Asset Management case study focuses around Century Engineering, Inc., a full service engineering consulting firm offering expertise in Civil, Geotechnical, Mechanical, Electrical, Plumbing, Structural, Environmental, Transportation, Utilities, Water/Wastewater and Geospatial Technology Solutions.
 
