@@ -6,7 +6,7 @@
 
 Experienced teams utilizing advanced technology to keep a watchful eye on your utilities.
 
-![Premier Utility Services logo](http://fulcrumapp.com/assets/img/cases/premier-logo.jpg)
+<p style="text-align: center;"><img src="http://fulcrumapp.com/assets/img/cases/premier-logo.jpg" alt="Premier Utility Services logo"</p>
 
 Our Oil, Gas, and Energy case study focuses around Premier Utility Services, a global contractor specializing in energy infrastructure. Since 2001, Premier has strived to become the leading Utility Services Company in the Industry. Premier's experienced management team is well-versed in all areas of Utility Services, including Damage Prevention, Gas Leak Detection/Inspection, Stray Voltage Detection, Pre-storm and Post-storm Assessment and Vacuum Excavation services. Their highly trained and experienced technicians are supplied with state of the art equipment to perform any utility service needed.
 
