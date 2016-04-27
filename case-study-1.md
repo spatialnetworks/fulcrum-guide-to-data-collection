@@ -6,7 +6,7 @@
 
 Engineers, scientists, consultants and constructors helping municipal, private and federal agencies solve complex environmental challenges.
 
-![Brown and Caldwell logo](http://www.fulcrumapp.com/assets/img/cases/brownandcaldwell-logo.jpg)
+<p style="text-align: center;"><img src="http://www.fulcrumapp.com/assets/img/cases/brownandcaldwell-logo.jpg" alt="Brown and Caldwell logo"</p>
 
 Our Environmental Engineering case study focuses around Brown and Caldwell, an employee-owned, 100-percent environmental firm serving clients locally and globally. With a history rooted in water and wastewater engineering, the firm provides full-service delivery of engineering, scientific, consulting and construction services and all the essential ingredients® for a successful project and a standout experience.
 
