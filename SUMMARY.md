@@ -6,7 +6,7 @@
 * ["Learning the Dialogue"](learning-the-dialogue-and-the-technology.md)
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Data Collection 101](data-collection-101.md)
-* Building Your Survey (Guide with pictures)
+* Building Your Survey
 * Survey Best Practices
 * Guide to Field data collection
 * [Case Study 2: Century - Project Management](case-study-2.md)
