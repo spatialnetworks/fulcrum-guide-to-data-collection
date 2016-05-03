@@ -7,7 +7,7 @@
 * [Processing](#Processing) - How will we process the information?
 * [Analysis](#Analysis) - What insights can we gather? What does the data suggest?
 
-###Purpose
+###Purpose <a id="Purpose"></a>
 
 _What do I want to learn?_
 
@@ -37,7 +37,7 @@ _Who will provide data? Who will collect data?_
 
 _How will we process the information?_
 
-###Analysis
+###Analysis <a id="Analysis"></a>
 
 _What insights can we gather? What does the data suggest?_
 
