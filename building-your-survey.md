@@ -1,3 +1,3 @@
 # Building Your Survey
 
-[Guide with pictures]
+[Guide with pictures, etc.]
