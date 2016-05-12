@@ -7,8 +7,8 @@
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Building Your Survey](building-your-survey.md)
 * Survey Best Practices
-* [Case Study 2: Century - Project Management](case-study-2.md)
 * [Guide to Field data collection](guide_to_field_data_collection.md)
+* [Case Study 2: Century - Project Management](case-study-2.md)
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * How to get more accurate data
 * Exporting data for further analysis
