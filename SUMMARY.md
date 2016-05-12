@@ -8,8 +8,8 @@
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Building Your Survey](building-your-survey.md)
 * Survey Best Practices
-* Guide to Field data collection
 * [Case Study 2: Century - Project Management](case-study-2.md)
+* Guide to Field data collection
 * How to get more accurate data
 * Exporting data for further analysis
 * Advanced Tricks and Tactics/Tips for professional data collection / analysis
