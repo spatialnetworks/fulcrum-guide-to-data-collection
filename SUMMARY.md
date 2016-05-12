@@ -4,12 +4,12 @@
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * [Data Collection 101](data-collection-101.md)
 * ["Learning the Dialogue"](learning-the-dialogue-and-the-technology.md)
-* [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Building Your Survey](building-your-survey.md)
 * Survey Best Practices
 * [Case Study 2: Century - Project Management](case-study-2.md)
 * Guide to Field data collection
+* [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * How to get more accurate data
 * Exporting data for further analysis
 * Advanced Tricks and Tactics/Tips for professional data collection / analysis
