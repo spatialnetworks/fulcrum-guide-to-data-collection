@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * ["Learning the Dialogue"](learning-the-dialogue-and-the-technology.md)
+* [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Data Collection 101](data-collection-101.md)
 * [Building Your Survey](building-your-survey.md)
