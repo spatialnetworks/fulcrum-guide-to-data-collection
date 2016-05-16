@@ -8,7 +8,7 @@
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Building Your Survey](building-your-survey.md)
 * [Survey Best Practices](survey_best_practices.md)
-* [Guide to Field data collection](guide_to_field_data_collection.md)
+* [Guide to Field data collection](guide-to-field-data-collection.md)
 * [Case Study 2: Century - Project Management](case-study-2.md)
 * [How to get more accurate data](how_to_get_more_accurate_data.md)
 * [Exporting data for analysis](exporting-data-for-analysis.md)
