@@ -71,5 +71,5 @@ import/export common formats, direct API access, webhooks & data shares<br><br>
 
 GeoMarketing Applications</p>
 
-###Resources
+### Resources
 * http://geospatialworld.net/Magazine/MArticleView.aspx?aid=30534
