@@ -11,7 +11,7 @@
 * [Guide to Field data collection](guide_to_field_data_collection.md)
 * [Case Study 2: Century - Project Management](case-study-2.md)
 * [How to get more accurate data](how_to_get_more_accurate_data.md)
-* [Exporting data for further analysis](exporting-data-for-analysis.md)
+* [Exporting data for analysis](exporting-data-for-analysis.md)
 * Advanced Tricks and Tactics/Tips for professional data collection / analysis
 * [Case Study 3: Premier - Large Scale Data Collection](case-study-3.md)
 * [Appendix - Data Collection/GIS/Cartography/Research Terms](appendix.md)
