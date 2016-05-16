@@ -31,7 +31,7 @@ We are now entering a period where technologies, such as Fulcrum, Waze, Facebook
 * [http://www.yext.com/resources/pocket-guide-to-the-us-gps-navigation-market/quick-history-of-gps-navigation/](http://www.yext.com/resources/pocket-guide-to-the-us-gps-navigation-market/quick-history-of-gps-navigation/)
 * [http://www.ebay.com/gds/The-Pros-and-Cons-of-Relying-on-a-Smartphones-GPS-Unit-/10000000177629662/g.html](http://www.ebay.com/gds/The-Pros-and-Cons-of-Relying-on-a-Smartphones-GPS-Unit-/10000000177629662/g.html)
 
-###Resources
+### Resources
 ![stack chart of global personal navigation device market share from 2007 to 2009 by vendor](global-market-share-of-garmin-since-2007.jpg)
 
 ![bar chart comparison from 2009 and 2012 with increasing numbers of smartphone and GPS devices and decreasing numbers of digital cameras and portable music players](gps-usage.png)
