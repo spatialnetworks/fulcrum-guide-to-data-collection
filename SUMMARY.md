@@ -7,7 +7,7 @@
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Case Study 1: Brown and Caldwell - Process Improvement](case-study-1.md)
 * [Building Your Survey](building-your-survey.md)
-* [Survey Best Practices](survey_best_practices.md)
+* [Survey Best Practices](survey-best-practices.md)
 * [Guide to Field data collection](guide-to-field-data-collection.md)
 * [Case Study 2: Century - Project Management](case-study-2.md)
 * [How to get more accurate data](how-to-get-more-accurate-data.md)
