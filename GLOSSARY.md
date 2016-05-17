@@ -17,6 +17,22 @@
 ## Cartography
 ## Cartesian Coordinate System
 ## Cell
+## Cartographic Generalization
+## Centroid
+## Character
+## Choropleth Map
+## Class
+## Cluster Analysis
+## Clustering
+## Compass
+## Compression
+## Concatenate
+## Conditional
+## Connectivity
+## Contour
+## Coordinate
+## Cultural Geography
+
 ## Data Collector
 
 ## Data Collection
