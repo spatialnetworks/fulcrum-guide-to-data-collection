@@ -4,7 +4,19 @@
 ## Annotation
 ## API
 ## Attribute
-
+## Authentication
+## Axis
+## Basemap
+## Biogeography
+## Boundary
+## Boolean Value
+## Boundary Survey
+## CAD
+## Calibration
+## Cardinality
+## Cartography
+## Cartesian Coordinate System
+## Cell
 ## Data Collector
 
 ## Data Collection
@@ -16,6 +28,7 @@ The process of gathering field data
 Verifying a record of observation directly at the subject's site.
 ## Null Island
 An invented geography with the coordinates 0°, 0°. Null Island is a concept derived from the results of geocoding data where the intended coordinates could not be matched for the entered address - resulting in a "0,0" being returned.
+## Scale
 ## Spatial Data
 ## Tile
 ## Tile Server
