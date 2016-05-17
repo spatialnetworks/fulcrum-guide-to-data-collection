@@ -71,6 +71,10 @@ The process of gathering field data
 
 ## Ground Truthing
 Verifying a record of observation directly at the subject's site.
+## Human Geography
+ 
+ Stopped at I
+
 ## Null Island
 An invented geography with the coordinates 0°, 0°. Null Island is a concept derived from the results of geocoding data where the intended coordinates could not be matched for the entered address - resulting in a "0,0" being returned.
 ## Scale
