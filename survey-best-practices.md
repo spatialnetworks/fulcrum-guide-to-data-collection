@@ -35,6 +35,6 @@ Phrase your questions to be considerate, inclusive, and respectful.
 ### Avoid leading questions <a id="leading"></a>
 Remain neutral and avoid asking questions that may lead the subject to answer a particular way.
 ### Put questions in a positive form <a id="positive"></a>
-It can be confusing to ask about what is not, instead ask about what is.
+It can be confusing to ask about _what is not_, instead ask about _what is_.
 ### Offer a balanced set of responses <a id="balanced"></a>
 Give a range of answers that are inclusive and fair.
