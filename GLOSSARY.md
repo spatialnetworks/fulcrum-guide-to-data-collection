@@ -1,5 +1,5 @@
 ## Analysis
-A process where data is examined to infer a conclusion.
+
 ## Address
 
 ## Alphanumeric Grid
