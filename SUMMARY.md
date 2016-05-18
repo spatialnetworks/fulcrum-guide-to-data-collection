@@ -13,7 +13,7 @@
 * [How to get more accurate data](how-to-get-more-accurate-data.md)
 * [Exporting data for analysis](exporting-data-for-analysis.md)
 * Advanced Tricks and Tactics/Tips for professional data collection / analysis
-* [Case Study 3: Premier - Large Scale Data Collection](case-study-3.md)
 * [Glossary](GLOSSARY.md)
    * Appendix - Data Collection/GIS/Cartography/Research Terms
+* [Case Study 3: Premier - Large Scale Data Collection](case-study-3.md)
 
