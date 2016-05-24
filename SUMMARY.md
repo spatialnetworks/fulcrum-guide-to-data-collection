@@ -10,7 +10,6 @@
 * [Survey Best Practices](survey-best-practices.md)
 * [Guide to Field data collection](guide-to-field-data-collection.md)
 * [Case Study 2: Century - Project Management](case-study-2.md)
-* [How to get more accurate data](how-to-get-more-accurate-data.md)
 * [Exporting data for analysis](exporting-data-for-analysis.md)
 * [Case Study 3: Premier - Large Scale Data Collection](case-study-3.md)
 * Advanced Tricks and Tactics/Tips for professional data collection / analysis
