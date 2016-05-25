@@ -11,6 +11,6 @@ Welcome, and thank you for downloading Fulcrum's Ultimate Guide to Data Collecti
 - A glossary of common mapping and analysis terms
 - And some great offers from Fulcrum and our partners
 
-We hope this will help you better understand the planning and process that goes into a successful data collection and mapping project. As always if you have any questions, concerns, or comments, you can always reach out to us at [info@fulcrumapp.com](mailto:info@fulcrumapp.com)
+We hope this will help you better understand the planning and process that goes into any successful data collection and mapping project. As always if you have any questions, concerns, or comments, you can always reach out to us at [info@fulcrumapp.com](mailto:info@fulcrumapp.com)
 
 - RJ Jacques, Marketing Director, Fulcrum
