@@ -8,7 +8,7 @@ Welcome, and thank you for downloading Fulcrum's Ultimate Guide to Data Collecti
 - A guide to learning the ins and outs of data collection
 - Best practices for designing your survey
 - Tips for field data collection
-- A glossary of common mapping and analysis terms
+- A glossary of common data collection, mapping, and analysis terms
 - And some great offers from Fulcrum and our partners
 
 Who Is This Guide For?
