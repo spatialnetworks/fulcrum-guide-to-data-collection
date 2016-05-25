@@ -41,7 +41,7 @@ Identify what personnel will be on your data collection team and determine if th
 
 _How will we process the information?_
 
-After the recorded observation is made, the data collection processing step begins. This step in the process can vary greatly depending on how the data is being collected and what's required to make the raw data usable. Placing emphasis upon optimal design and an effective protocol steps will benefit the processing step of your workflow. If your protocol dictates that data will be collected with paper and pencil, then you will require a processing step where results are transcribed into a computer spreadsheet or database.
+After the recorded observation is made, the data collection processing step begins. This step in the process can vary greatly depending on how the data is being collected and what's required to make the raw data usable. Placing emphasis upon optimal design and an effective protocol step will benefit the processing piece of your workflow. If your protocol dictates that data will be collected with paper and pencil, then you will require a processing task where results are transcribed into a computer spreadsheet or database.
 
 Each additional step in the processing portion of data collection can introduce opportunities for error. Whether it's human-error while transferring data from paper to electronic form, or using incorrect parameters in a programmatic conversion - each step introduced also introduces an opportunity for error.
 
