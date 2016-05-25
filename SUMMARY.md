@@ -12,7 +12,7 @@
 * [Case Study 2: Century - Project Management](case-study-2.md)
 * [Exporting data for analysis](exporting-data-for-analysis.md)
 * [Case Study 3: Premier - Large Scale Data Collection](case-study-3.md)
-* [Advanced Tricks and Tactics/Tips for professional data collection / analysis](advanced_tricks_and_tacticstips_for_professional_d.md)
+* [Advanced Tricks and Tactics/Tips for professional data collection / analysis](advanced-tricks-and-tactics-tips.md)
 * [Glossary](GLOSSARY.md)
 * Appendix - Data Collection/GIS/Cartography/Research Terms
 
