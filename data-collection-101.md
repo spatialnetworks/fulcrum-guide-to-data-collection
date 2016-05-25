@@ -41,7 +41,14 @@ Identify what personnel will be on your data collection team and determine if th
 
 _How will we process the information?_
 
+After the recorded observation is made, the data collection processing step begins. This step in the process can vary greatly depending on how the data is being collected and what's required to make the raw data usable. Placing emphasis upon optimal design and an effective protocol steps will benefit the processing step of your workflow. If your protocol dictates that data will be collected with paper and pencil, then you will require a processing step where results are transcribed into a computer spreadsheet or database.
+
+Each additional step in the processing portion of data collection can introduce opportunities for error. Whether it's human-error while transferring data from paper to electronic form, or using incorrect parameters in a programmatic conversion - each step introduced also introduces an opportunity for error.
+
 ### Analysis <a id="Analysis"></a>
 
 _What insights can we gather? What does the data suggest?_
+
+After defining the original purpose for collecting, gathering, and processing your data - comes the analysis of the results. Analyzing the information collected from your survey provides the answer to what you were originally motivated to find out - and sometimes more! A thorough evaluation of the findings from your data may suggest conclusions which were only hypothesized before. If your analysis can replace subjective decision support with measurable facts, you can have more confidence.
+
 
