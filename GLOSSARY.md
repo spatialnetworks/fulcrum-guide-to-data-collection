@@ -1,11 +1,11 @@
 ## Analysis
 A process where data is examined to infer a conclusion.
 ## Address
-
+A location of a residence or workplace, designated with numbers and/or letters, and arranged in a format for easy reference on a map
 ## Alphanumeric Grid
-
+A grid with letters and numbers ordination used to easy locate places and features
 ## Annotation
-
+Text, images, or notes on a map used to provide information to the user
 ## API
 
 ## Assessment
@@ -211,5 +211,3 @@ A piece of information with a spatial or geographic component.
 ## WGS84
 ## Zenith
 ## Zoom
-
-##
