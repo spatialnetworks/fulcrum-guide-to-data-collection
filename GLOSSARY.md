@@ -187,15 +187,29 @@ Testing or trial of a process before fully conducting it.
 ## Sample / Sampling
 An observation or collected record / the process of collecting data.
 ## Scale
+## Shapefile
+## SQL
+## Surveying
+## Symbology
 
 ## Spatial Data
 A piece of information with a spatial or geographic component.
 ## Sub-Field
-
+## Table
+## Theodolite
 ## Tile
 
 ## Tile Server
-
-## Various Analysis Methods
+## URL
+## USGS
+## UTM
+## Value
+## Variable
+## Vector
+## Visual Hierarchy
+## Waypoint
+## WGS84
+## Zenith
+## Zoom
 
 ##
