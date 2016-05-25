@@ -1,13 +1,13 @@
 ## Analysis
 A process where data is examined to infer a conclusion.
 ## Address
-
+A location of a residence or workplace, designated with numbers and/or letters, and arranged in a format for easy reference on a map
 ## Alphanumeric Grid
-
+A grid with letters and numbers ordination used to easy locate places and features
 ## Annotation
-
+Text, images, or notes on a map used to provide information to the user
 ## API
-
+A set of commands, tools, and protocols used to interact directly with information in a program
 ## Assessment
 An evaluation of something to determine its quality, quantity, or state.
 ## Attribute
@@ -45,8 +45,6 @@ Calculation fields can be used to write simple expressions to calculate values d
 ## Centroid
 
 ## Character
-
-## Choropleth Map
 
 ## Class
 
@@ -92,8 +90,6 @@ A process whereby observations are documented according to a predetermined set o
 
 ## Distribution
 
-## Easting
-
 ## Economic Geography
 
 ## Edge
@@ -107,6 +103,7 @@ A process whereby observations are documented according to a predetermined set o
 ## Error
 
 ## Event
+## Extrapolation
 
 ## Export
 
@@ -149,26 +146,68 @@ An element of a record, representing a single piece of data. Fields have differe
 
 ## Ground Truthing
 Verifying a record of observation directly at the subject's site.
+## Icon
+## International Date Line
+## Interpolation
+## Joining
+## Latitude
+## Longitude
+## Layer
+## Legend
+## Line
+## Map
 ## Method
+## Mean
+## Median
+## Metes And Bounds
 
 ## Monitoring
 A repeated process or workflow which observes or records something.
+## Nadir
+## Navigation
+## Noise
+
 ## Null Island
 An invented geography with the coordinates 0°, 0°. Null Island is a concept derived from the results of geocoding data where the intended coordinates could not be matched for the entered address - resulting in a "0,0" being returned.
+## Overlay
+## Parcel
+## Plat
+## Position
+## Precision
+
 ## Piloting
 Testing or trial of a process before fully conducting it.
+
+## Quadrant
+## Qualitative
+## Quantitative
+## Query
+## Raster
+## Record
 ## Sample / Sampling
 An observation or collected record / the process of collecting data.
 ## Scale
+## Shapefile
+## SQL
+## Surveying
+## Symbology
 
 ## Spatial Data
 A piece of information with a spatial or geographic component.
 ## Sub-Field
-
+## Table
+## Theodolite
 ## Tile
 
 ## Tile Server
-
-## Various Analysis Methods
-
-##
+## URL
+## USGS
+## UTM
+## Value
+## Variable
+## Vector
+## Visual Hierarchy
+## Waypoint
+## WGS84
+## Zenith
+## Zoom
