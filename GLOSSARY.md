@@ -7,7 +7,7 @@ A grid with letters and numbers ordination used to easy locate places and featur
 ## Annotation
 Text, images, or notes on a map used to provide information to the user
 ## API
-
+A set of commands, tools, and protocols used to interact directly with information in a program
 ## Assessment
 An evaluation of something to determine its quality, quantity, or state.
 ## Attribute
