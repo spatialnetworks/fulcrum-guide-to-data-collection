@@ -46,8 +46,6 @@ Calculation fields can be used to write simple expressions to calculate values d
 
 ## Character
 
-## Choropleth Map
-
 ## Class
 
 ## Cluster Analysis
@@ -107,6 +105,7 @@ A process whereby observations are documented according to a predetermined set o
 ## Error
 
 ## Event
+## Extrapolation
 
 ## Export
 
@@ -149,10 +148,24 @@ An element of a record, representing a single piece of data. Fields have differe
 
 ## Ground Truthing
 Verifying a record of observation directly at the subject's site.
+## Icon
+## International Date Line
+## Interpolation
+## Joining
+## Latitude
+## Longitude
+## Layer
+## Legend
+## Line
+## Map
 ## Method
+## Mean
+## Median
+## Metes And Bounds
 
 ## Monitoring
 A repeated process or workflow which observes or records something.
+## Nadir
 ## Null Island
 An invented geography with the coordinates 0°, 0°. Null Island is a concept derived from the results of geocoding data where the intended coordinates could not be matched for the entered address - resulting in a "0,0" being returned.
 ## Piloting
