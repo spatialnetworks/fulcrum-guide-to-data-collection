@@ -11,7 +11,7 @@
 
 _What do I want to learn?_
 
-Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground surveys can be expensive, timewise and financially. You should clearly define your goals and objectives before conducting your data collection activities.
+Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground and field surveys can be expensive, timewise and financially. You should clearly define your goals and objectives before conducting your data collection activities.
 
 Begin defining your purpose by analyzing precisely what data you need to collect to answer the questions which have led you to this point originally. There will likely be additional data you could collect while in the field but take caution against **mission creep**. Any additional data collected can quickly add to the time and money spent conducting your survey.
 
