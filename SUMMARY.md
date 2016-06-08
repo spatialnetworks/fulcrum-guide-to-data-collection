@@ -14,5 +14,4 @@
 * [Advanced Tricks and Tactics/Tips for professional data collection / analysis](advanced-tricks-and-tactics-tips.md)
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Glossary](GLOSSARY.md)
-* [Appendix - Data Collection/GIS/Cartography/Research Terms](appendix_-_data_collectiongiscartographyresearch_t.md)
 
