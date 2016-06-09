@@ -18,5 +18,3 @@ If you've ever wanted to learn to build a custom maps, collect field data for a 
 It's everything you'll need to get started collecting data better with forms and surveys.
 
 We hope this will help you better understand the planning and process that goes into any successful data collection and mapping project. As always if you have any questions, concerns, or comments, you can always reach out to us at [info@fulcrumapp.com](mailto:info@fulcrumapp.com)
-
-- RJ Jacques, Marketing Director, Fulcrum
