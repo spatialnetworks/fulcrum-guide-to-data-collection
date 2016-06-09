@@ -9,7 +9,6 @@
 * [Data Collection 101](data-collection-101.md)
 * [Case Study: Premier Utility - Large Scale Data Collection](case-study-3.md)
 * [Guide to Field data collection](guide-to-field-data-collection.md)
-* [Exporting data for analysis](exporting-data-for-analysis.md)
 * [Advanced Tricks and Tactics/Tips for professional data collection / analysis](advanced-tricks-and-tactics-tips.md)
 * ["Learning the Dialogue"](learning-the-dialogue-and-the-technology.md)
 * [Glossary](GLOSSARY.md)
