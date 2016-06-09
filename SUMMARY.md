@@ -5,7 +5,7 @@
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Building Your Survey](building-your-survey.md)
 * [Survey Best Practices](survey-best-practices.md)
-* [Case Study 2: Century - Project Management](case-study-2.md)
+* [Case Study: Century Engineering - Project Management](case-study-2.md)
 * [Data Collection 101](data-collection-101.md)
 * [Guide to Field data collection](guide-to-field-data-collection.md)
 * [Exporting data for analysis](exporting-data-for-analysis.md)
