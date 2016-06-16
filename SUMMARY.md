@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Cover Page](cover_page.md)
 * [Table of Contents](table_of_contents.md)
 * [Geography is Destiny](geography_is_destiny.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
