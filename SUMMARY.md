@@ -13,6 +13,5 @@
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Case Study: Premier Utility - Large Scale Data Collection](case-study-3.md)
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
-* ["Learning the Dialogue"](learning-the-dialogue-and-the-technology.md)
 * [Glossary](GLOSSARY.md)
 
