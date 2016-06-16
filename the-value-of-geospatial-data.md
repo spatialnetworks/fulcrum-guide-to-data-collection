@@ -4,7 +4,7 @@ From planning where to put a new business to maximize traffic to plotting the sh
 
   Geographers use a variety of tools to collect, process, and analyze their data to create maps, charts, and graphs to empower decision makers to make more informed choices. Collectively known as GIS, these tools make use of **spatial data**, or data collected with a spatial component, in order to plot information on maps. Spatial data can be time-consuming to collect, but has massive value for an organization.
 
-The boom in location data available today has expanded the market for GIS data and tools. GIS gives analysts the ability to use location data and spatial relationships to derive novel information. For many businesses, maintaining an accurate inventory is crucial for knowing what items are in stock, but that same data can be used in ways that make the business even more efficient. For example, if one product sells more frequently in some locations but not in others, the spatial data can inform management to stock more in those locations, in order to maximize the number of products sold and reduce wasted shelf space.
+The boom in location data available today has expanded the market for GIS data and tools. GIS gives analysts the ability to use location data and spatial relationships to derive novel information. For many businesses, maintaining an accurate inventory is crucial for knowing what items are in stock, but that same data can be used in ways that make the business even more efficient. For example, if one product sells more frequently in some locations but not in others, the spatial data can inform management to stock more in those locations, in order to maximize the number of products sold and reduce wasted shelf space. For decades data analysis has focused on the "what" and "why" of data, but spatial add context with "where".
 
 For a transportation company, knowing which roads are blocked, and the shortest path to a delivery, can be the $10,000 question. Being able to map routes, and alternate courses of travel can save hours of time, and gallons of fuel, which add up to substantial cost savings in a short period of time.
 
@@ -15,17 +15,3 @@ In fact, this approach is the same used by epidemiologist Jon Snow, who identifi
 Point needed here.
 
 The collection & analysis of spatial data can help businesses, governments, and organizations make better use of their land, resources and time. By better understanding the world around them, individuals can make better decisions. That's the real value of geospatial data.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
