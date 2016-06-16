@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Geography is Destiny
+* [Geography is Destiny](geography_is_destiny.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * [A dive in to GPS Technology on SmartPhones: How did we get here?](a-dive-in-to-gps-technology.md)
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
