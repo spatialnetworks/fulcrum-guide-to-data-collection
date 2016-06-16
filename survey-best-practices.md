@@ -1,6 +1,6 @@
 # Survey Best Practices
 
-Conducting surveys can provide useful answers to specific questions. They don't need to be complex or exhausting to be valuable. If you've ever wondered how to conduct a good survey, hopefully these tips will help.
+Conducting surveys can provide useful answers to specific questions. They don't need to be complex or exhausting to be valuable. If you've ever wondered how to conduct a good survey, these tips will help.
 
 * [Keep questions relevant and specific
 * ](#relevant)
@@ -11,7 +11,7 @@ Conducting surveys can provide useful answers to specific questions. They don't 
 
 * [Ask about one thing at a time](#one-thing)
 
-* [Avoid biased language and leading questions](#biased)
+* [Avoid biased language & leading questions](#biased)
 
 * [Put questions in a positive form](#positive)
 
@@ -28,7 +28,7 @@ Keep your inquiries as direct as possible.
 Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, simple fashion.
 ### Ask about one thing at a time <a id="one-thing"></a>
 One question, one answer. Ask for one thing at a time, and avoid open ended questions without a clear answer.
-### Avoid biased language and leading questions <a id="biased"></a>
+### Avoid biased language & leading questions <a id="biased"></a>
 Phrase your questions to be considerate, inclusive, and respectful. Dont lead the question with unnecessary adjectives and adverbs that may bias a respondee's answer. Remain objective and avoid asking questions that may lead the subject to answer a particular way.
 ### Put questions in a positive form <a id="positive"></a>
 It can be confusing to ask about _what is not_, instead ask about _what is_. 
