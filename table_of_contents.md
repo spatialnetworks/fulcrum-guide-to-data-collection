@@ -16,7 +16,7 @@ Advanced Tips & Tricks
 
 Guide to Field Data Collection
 
-Appendix I - Dive In To GPS Tech
+Appendix I - Diving In To GPS Tech
 
 Appendix II - Case Studies
  - Premier
