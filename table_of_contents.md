@@ -12,7 +12,7 @@ Survey Best Practices
 
 Data Collection 101
 
-Advanced Tips Tricks
+Advanced Tips & Tricks
 
 Guide to Field Data Collection
 
