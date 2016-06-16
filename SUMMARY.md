@@ -1,6 +1,6 @@
 # Summary
 
-* Cover Page
+* [Cover Page](cover_page.md)
 * [Introduction](README.md)
 * [Table of Contents](table_of_contents.md)
 * [Geography is Destiny](geography_is_destiny.md)
