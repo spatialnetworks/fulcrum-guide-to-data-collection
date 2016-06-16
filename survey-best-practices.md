@@ -2,14 +2,14 @@
 
 Conducting surveys can provide useful answers to specific questions. They don't need to be complex or exhausting to be valuable. If you've ever wondered how to conduct a good survey, these tips will help.
 
-* Keep questions relevant and specifi
+* Keep questions relevant and specific
 * Make questions short
 * Use simple language
 * [Ask about one thing at a time](#one-thing)
 * [Avoid biased language & leading questions](#biased)
 * [Put questions in a positive form](#positive)
-* [Offer a balanced set of responses](#balanced
-* Adding a comments section for field not
+* [Offer a balanced set of responses](#balanced)
+* Adding a comments section for field notes
 
 ### Keep questions relevant and specific <a id="relevant"></a>
 Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation.
