@@ -14,7 +14,7 @@ In fact, this approach is the same used by epidemiologist Jon Snow, who identifi
 
 Point needed here.
 
-The collection & analysis of spatial data can help businesses, governments, and organizations make better use of their land, resources and time. By better understanding the world around them, individuals can make better decisions.
+The collection & analysis of spatial data can help businesses, governments, and organizations make better use of their land, resources and time. By better understanding the world around them, individuals can make better decisions. That's the real value of geospatial data.
 
 
 
