@@ -1,4 +1,4 @@
-### Planning and Tips of Data Collection
+### The Value of Geospatial Data
 
 _The Planning Process_
 
