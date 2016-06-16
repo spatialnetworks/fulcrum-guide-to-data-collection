@@ -12,6 +12,8 @@ For those fighting pandemics, knowing where ill people reside, and where they've
 
 In fact, this approach is the same used by epidemiologist Jon Snow, who identified the pump that was causing [London's Cholera outbreak in 1854](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak), by mapping the location of Cholera victims, and identifying the source of the outbreak as a single water pump on Broad Street.
 
+Point needed here.
+
 The collection & analysis of spatial data can help businesses, governments, and organizations make better use of their land, resources and time. By better understanding the world around them, individuals can make better decisions.
 
 
