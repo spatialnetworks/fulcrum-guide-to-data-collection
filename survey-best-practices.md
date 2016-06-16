@@ -23,7 +23,7 @@ Conducting surveys can provide useful answers to specific questions. They don't 
 ### Keep questions relevant and specific <a id="relevant"></a>
 Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation.
 ### Make questions short <a id="short"></a>
-Keep your inquiries as direct as possible. 
+Keep your inquiries as direct and to the point as possible. 
 ### Use simple language <a id="simple"></a>
 Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, simple fashion.
 ### Ask about one thing at a time <a id="one-thing"></a>
