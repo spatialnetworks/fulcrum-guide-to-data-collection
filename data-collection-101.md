@@ -53,6 +53,6 @@ Each additional step in the processing portion of data collection can introduce 
 
 _What insights can we gather? What does the data suggest?_
 
-After defining the original purpose for collecting, gathering, and processing your data - comes the analysis of the results. Analyzing the information collected from your survey provides the answer to what you were originally motivated to find out - and sometimes more! A thorough evaluation of the findings from your data may suggest conclusions which were only hypothesized before. If your analysis can replace subjective decision support with measurable facts, you can have more confidence.
+After defining the original purpose for collecting, gathering, and processing your data - comes the analysis of the results. Analyzing the information collected from your survey provides the answer to what you were originally motivated to find out - and sometimes more! A thorough evaluation of the findings from your data may suggest conclusions which were only hypothesized before. If your analysis can replace subjective decision support with measurable facts, you will have more confidence.
 
 
