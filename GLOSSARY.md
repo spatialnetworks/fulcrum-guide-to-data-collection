@@ -101,7 +101,7 @@ A process whereby observations are documented according to a predetermined set o
 ## Equator
 
 ## Error
-
+A mistake, inaccuracy, or miscalculation.
 ## Event
 ## Extrapolation
 
