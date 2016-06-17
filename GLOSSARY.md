@@ -39,7 +39,7 @@ Calculation fields can be used to write simple expressions to calculate values d
 ## Cartesian Coordinate System
 
 ## Cell
-
+With spreadsheet or raster data, cells are the intersections of rows and columns.
 ## Cartographic Generalization
 
 ## Centroid
@@ -57,15 +57,15 @@ The center point of geometric object such as a line or polygon.
 ## Compression
 
 ## Concatenate
-
+To link or chain things together, in series.
 ## Conditional
 
 ## Connectivity
 
 ## Contour
-
+A line joining points of equal elevation, typically represented as a dataset or on a map.
 ## Coordinate
-
+A set of numbers representing a position.
 ## Cultural Geography
 
 ## Database
@@ -198,10 +198,12 @@ A piece of information with a spatial or geographic component.
 ## Table
 ## Theodolite
 ## Tile
-
+Small and numerous images of map data that together combine a larger map - typically viewed on the web.
 ## Tile Server
+A collection of databases, libraries, and software which work together to return the correct map tiles to the requesting client.
 ## URL
 ## USGS
+A United States of America scientific agency for natural sciences, including earth science and biology.
 ## UTM
 ## Value
 ## Variable
