@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Table of Contents](table_of_contents.md)
+* [Table of Contents](table-of-contents.md)
 * [Geography is Destiny](geography-is-destiny.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * [Building Your Survey](building-your-survey.md)
