@@ -13,7 +13,7 @@ _What do I want to learn?_
 
 Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground and field surveys can be expensive, timewise and financially. You should clearly define your goals and objectives before conducting your data collection activities.
 
-Begin defining your purpose by analyzing precisely what data you need to collect to answer the questions which have led you to this point originally. There will likely be additional data you could collect while in the field but take caution against **mission creep**. Any additional data collected can quickly add to the time and money spent conducting your survey.
+Begin defining your purpose by analyzing precisely what data you need to collect to answer the questions which have led you to this point originally. There will likely be additional data you _could_ collect while in the field but take caution against **mission creep**. Any additional data collected can quickly add to the time and money spent conducting your survey.
 
 If what you're looking to learn can be determined back in the office - don't include it in your field data collection process. For example, why walk around a field to mark the corners and determine the area, when you can do that at a desk with GIS software?
 
@@ -21,9 +21,9 @@ If what you're looking to learn can be determined back in the office - don't inc
 
 _Framing the question: What should I collect?_
 
-How you setup your data collection survey will be critical to its success. The way you design how observations are recorded will have a tremendous impact to the way the data is collected and how its later processed and analyzed. An effective survey is one that is specific and focused; you don't want to get onto a tangent away from your original purpose. '_Nice to have_' information can quickly take away from the precious time it takes for your team to conduct the survey; it should be scrutinized as to whether it really needs to be captured.
+How you setup your data collection survey will be critical to its success. The way you design how observations are recorded will have a tremendous impact on the way the data is collected and how its later processed and analyzed. An effective survey is one that is specific and focused; you don't want to get onto a tangent away from your original purpose. '_Nice to have_' information can quickly take away from the precious time it takes for your team to conduct the survey; it should be scrutinized as to whether it really needs to be captured.
 
-For your questions, provide appropriate answers. This includes framing your questions appropriately and being inclusive while also keeping them brief and direct. Consider how the data will be processed and analyzed as you're designing your survey. For example: do you want to allow a question to be answered with an open-ended response, or provide a range of answers that can be chosen instead?
+For your questions, provide appropriate answer choices to pick from. This includes framing your questions fairly and being inclusive while also keeping them brief and direct. Consider how the data will be processed and analyzed as you're designing your survey. For example: do you want to allow a question to be answered with an open-ended response, or provide a range of structured answers to be chosen from instead?
 
 Other things to consider surrounding your survey design include whether you will need supporting reference information while collecting the data. If a field user needs to confirm that they're within a certain area while collecting the observation - how will they be able to confirm that? Design and logistics go hand-in-hand. For example, will you be working in an area requiring access to cellular connectivity? Detailed tips and suggestions can be found in our related mini-guide: [Survey Best Practices](survey-best-practices.md).
 
