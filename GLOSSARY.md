@@ -110,7 +110,7 @@ A process whereby observations are documented according to a predetermined set o
 ## Feature
 
 ## Field
-A location outdoors, either in the built or natual environment, or an element of a record, representing a single piece of data. 
+A location outdoors, either in the built or natural environment, or an element of a record, representing a single piece of data. 
 
 Fields have different available types, including: 
 * Text 
