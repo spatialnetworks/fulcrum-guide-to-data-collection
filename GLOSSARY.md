@@ -63,7 +63,7 @@ To link or chain things together, in series.
 ## Connectivity
 
 ## Contour
-A line joining points of equal elevation, typically represented as a dataset or on a map.
+A line joining points of equal elevation, typically represented on a map or as a dataset.
 ## Coordinate
 A set of numbers representing a position.
 ## Cultural Geography
