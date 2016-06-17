@@ -11,13 +11,13 @@ A set of commands, tools, and protocols used to interact directly with informati
 ## Assessment
 An evaluation of something to determine its quality, quantity, or state.
 ## Attribute
-
+A piece of information which describes an object or feature.
 ## Authentication
 
 ## Axis
 
 ## Basemap
-
+A foundational layer for a map that provides context and reference information for other data layers to be overlaid.
 ## Biogeography
 
 ## Boundary
@@ -27,7 +27,7 @@ An evaluation of something to determine its quality, quantity, or state.
 ## Boundary Survey
 
 ## CAD
-
+Computer-aided design - CAD, utilizes computer software to facilitate drawing, analyzing, and disseminating technical designs. It is typically used in architectural, engineering, and machining workflows.
 ## Calculation Field
 Calculation fields can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs). ([Reference](http://www.fulcrumapp.com/help/calculation-fields/))
 ## Calibration
@@ -43,7 +43,7 @@ Calculation fields can be used to write simple expressions to calculate values d
 ## Cartographic Generalization
 
 ## Centroid
-
+The center point of geometric object such as a line or polygon.
 ## Character
 
 ## Class
