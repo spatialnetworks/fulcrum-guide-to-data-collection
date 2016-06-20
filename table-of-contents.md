@@ -2,27 +2,26 @@
 
 - [Introduction](README.md)
 
-- Geography Is Destiny
+- [Geography Is Destiny](geography-is-destiny.md)
 
-- Value of Geospatial Data
+- [Value of Geospatial Data](the-value-of-geospatial-data.md)
 
-- Building Your Survey
+- [Building Your Survey](building-your-survey.md)
 
-- Survey Best Practices
+- [Survey Best Practices](survey-best-practices.md)
 
-- Data Collection 101
+- [Data Collection 101](data-collection-101.md)
 
-- Advanced Tips & Tricks
+- [Guide to Field Data Collection](guide-to-field-data-collection.md)
 
-- Guide to Field Data Collection
-
-- Appendix I - Diving In To GPS Tech
+- [Appendix I - Diving In To GPS Tech](a-dive-in-to-gps-technology.md)
 
 - Appendix II - Case Studies
- - Premier
- - Century Engineering
+ - [Premier Utility](case-study-3.md)
+ - [Century Engineering](case-study-2.md)
 
 - Appendix III - Geospatial Glossary
+  - [Glossary](GLOSSARY.md)
 
 - Offers
  - Fulcrum
