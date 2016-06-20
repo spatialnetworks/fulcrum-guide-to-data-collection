@@ -1,6 +1,6 @@
 # Table of Contents
 
-- Introduction
+- [Introduction](README.md)
 
 - Geography Is Destiny
 
