@@ -2,8 +2,6 @@
 
 **- [Introduction](README.md)**
 
-**- [Geography Is Destiny](geography-is-destiny.md)**
-
 **- [The Value of Spatial Data](the-value-of-geospatial-data.md)**
 
 **- [Building Your Survey](building-your-survey.md)**
