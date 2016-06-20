@@ -4,7 +4,7 @@
 * [Table of Contents](table-of-contents.md)
 * [Introduction](README.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
-* Introduction
+* [Introduction](introduction.md)
 * [Building Your Survey](building-your-survey.md)
 * [Survey Best Practices](survey-best-practices.md)
 * [Data Collection 101](data-collection-101.md)
