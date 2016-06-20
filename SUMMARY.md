@@ -2,7 +2,7 @@
 
 * [Geography is Destiny](geography-is-destiny.md)
 * [Table of Contents](table-of-contents.md)
-* [Introduction](README.md)
+* [Title Page](README.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * [Introduction](introduction.md)
 * [Building Your Survey](building-your-survey.md)
