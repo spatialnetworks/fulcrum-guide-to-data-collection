@@ -77,7 +77,7 @@ A process whereby observations are documented according to a predetermined set o
 ## Dataset
 A collection of related data.
 ## Data Type
-The classification of data which determines what sort of values it can store and how it can be used.
+The classification of data which determines what sort of values can be stored and how it can be used.
 ## Datum
 In Geodesy, a datum is a mathematical equation which defines a reference from which measurements can be taken.
 ## Degree
@@ -85,7 +85,7 @@ A unit of measurement of angles.
 ## Density
 
 ## Dimension
-A physical measurement of a property of something.
+A physical measurement of a property of an object.
 ## Distortion
 
 ## Distribution
