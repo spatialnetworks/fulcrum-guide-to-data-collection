@@ -1,8 +1,8 @@
 # Summary
 
+* [Title Page](README.md)
 * [Geography is Destiny](geography-is-destiny.md)
 * [Table of Contents](table-of-contents.md)
-* [Title Page](README.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * [Introduction](introduction.md)
 * [Building Your Survey](building-your-survey.md)
