@@ -1,7 +1,7 @@
 # Summary
 
 * [Title Page](README.md)
-* [Introduction](introduction.md)
+* [Title Page](introduction.md)
 * [Table of Contents](table-of-contents.md)
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
 * [Building Your Survey](building-your-survey.md)
