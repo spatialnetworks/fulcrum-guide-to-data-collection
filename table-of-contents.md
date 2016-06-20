@@ -2,6 +2,8 @@
 
 **- [Introduction](README.md)**
 
+**- [Table of Contents](table-of-contents.md)**
+
 **- [The Value of Spatial Data](the-value-of-geospatial-data.md)**
 
 **- [Building Your Survey](building-your-survey.md)**
@@ -14,14 +16,14 @@
 
 **- [Appendix I - Diving In To GPS Tech](a-dive-in-to-gps-technology.md)**
 
-**- Appendix II - Case Studies
+**- Appendix II - Case Studies**
  - [Premier Utility Services](case-study-3.md)
- - [Century Engineering](case-study-2.md)**
+ - [Century Engineering](case-study-2.md)
 
-**- Appendix III - Geospatial Glossary
+**- Appendix III - Geospatial Glossary**
   - [Glossary](GLOSSARY.md)
 
-**- Offers**
+**- Appendix IV - Special Offers**
  - Fulcrum
  - Carto DB
  - Trimble
