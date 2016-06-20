@@ -23,15 +23,15 @@ The study of how species are distributed across the planet and their evolution.
 ## Boundary
 A line which delineates an area.
 ## Boolean Value
-A data type or varaible with two possible values: true or false.
+A data type or variable with two possible values: true or false.
 ## Boundary Survey
-An evaluation by measurements conducted by a professionally licensed surveyor which establishes the corners of a legal parcel of land.
+An evaluation by measurements, conducted by a professionally licensed surveyor which establishes the corners of a legal parcel of land.
 ## CAD
 Computer-aided design - CAD, utilizes computer software to facilitate drawing, analyzing, and disseminating technical designs. It is typically used in architectural, engineering, and machining workflows.
 ## Calculation Field
 Calculation fields can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs). ([Reference](http://www.fulcrumapp.com/help/calculation-fields/))
 ## Calibration
-Reading and adjustments compared against a standard to ensure accuracy, typically with instruments or equipment.
+Readings and adjustments compared against a standard to ensure accuracy, typically with instruments or equipment.
 ## Cardinality
 
 ## Cartography
