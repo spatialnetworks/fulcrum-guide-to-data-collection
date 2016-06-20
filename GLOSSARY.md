@@ -75,17 +75,17 @@ A data collector can be a person and/or a device. The data collector records obs
 ## Data Collection/Data Capture
 A process whereby observations are documented according to a predetermined set of criteria.
 ## Dataset
-
+A collection of related data.
 ## Data Type
-
+The classification of data which determines what sort of values it can store and how it can be used.
 ## Datum
-
+In Geodesy, a datum is a mathematical equation which defines a reference from which measurements can be taken.
 ## Degree
-
+A unit of measurement of angles.
 ## Density
 
 ## Dimension
-
+A physical measurement of a property of something.
 ## Distortion
 
 ## Distribution
@@ -95,20 +95,21 @@ A process whereby observations are documented according to a predetermined set o
 ## Edge
 
 ## Elevation
-
+The height above a given point.
 ## Envelope
 
 ## Equator
-
+The line of latitude that falls equidistant between the north and south poles, with the measurement of 0°.
 ## Error
 A mistake, inaccuracy, or miscalculation.
 ## Event
+
 ## Extrapolation
-
+The act of projecting a conclusion based upon existing data and current trends.
 ## Export
-
+In computing, an output of data in a particular format type.
 ## Feature
-
+A distinct attribute or property.
 ## Field
 A location outdoors, either in the built or natural environment, or an element of a record, representing a single piece of data. 
 
@@ -129,13 +130,15 @@ Fields have different available types, including:
 ## Filter
 
 ## Geocoding
-
+The process of deriving coordinates from a physical address.
 ## Geocomputation
 
 ## Geodatabase
 
+## Geodesy
+The science and mathematics related to the shape of the earth, its position in space, and gravity.
 ## Geography
-
+The science and study of the earth, its inhabitants, physical features, and atmosphere.
 ## Geometry
 
 ## GIS
