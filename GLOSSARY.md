@@ -19,33 +19,33 @@ A piece of information which describes an object or feature.
 ## Basemap
 A foundational layer for a map that provides context and reference information for other data layers to be overlaid.
 ## Biogeography
-
+The study of how species are distributed across the planet and their evolution.
 ## Boundary
-
+A line which delineates an area.
 ## Boolean Value
-
+A data type or varaible with two possible values: true or false.
 ## Boundary Survey
-
+An evaluation by measurements conducted by a professionally licensed surveyor which establishes the corners of a legal parcel of land.
 ## CAD
 Computer-aided design - CAD, utilizes computer software to facilitate drawing, analyzing, and disseminating technical designs. It is typically used in architectural, engineering, and machining workflows.
 ## Calculation Field
 Calculation fields can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs). ([Reference](http://www.fulcrumapp.com/help/calculation-fields/))
 ## Calibration
-
+Reading and adjustments compared against a standard to ensure accuracy, typically with instruments or equipment.
 ## Cardinality
 
 ## Cartography
-
+The science of map creation.
 ## Cartesian Coordinate System
 
 ## Cell
 With spreadsheet or raster data, cells are the intersections of rows and columns.
 ## Cartographic Generalization
-
+The process of reducing the detail of the features being represented within a visualization.
 ## Centroid
 The center point of geometric object such as a line or polygon.
 ## Character
-
+A letter or symbol.
 ## Class
 
 ## Cluster Analysis
@@ -55,11 +55,11 @@ The center point of geometric object such as a line or polygon.
 ## Compass
 
 ## Compression
-
+A process run upon some data whereby it is transported or stored in a smaller size than its original composition.
 ## Concatenate
 To link or chain things together, in series.
 ## Conditional
-
+A concept in programming where different actions are executed depending upon whether a boolean value is met.
 ## Connectivity
 
 ## Contour
@@ -67,9 +67,9 @@ A line joining points of equal elevation, typically represented on a map or as a
 ## Coordinate
 A set of numbers representing a position.
 ## Cultural Geography
-
+The study of various aspects of human culture across the globe and throughout time.
 ## Database
-
+A collection of data that is stored in a manner which enables efficient retrieval.
 ## Data Collector
 A data collector can be a person and/or a device. The data collector records observations, states, or quantities of a particular subject.
 ## Data Collection/Data Capture
