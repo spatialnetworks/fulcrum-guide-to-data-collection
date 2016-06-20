@@ -3,8 +3,8 @@
 * [Geography is Destiny](geography-is-destiny.md)
 * [Table of Contents](table-of-contents.md)
 * [Introduction](README.md)
-   * Introduction
 * [The Value of Geospatial Data](the-value-of-geospatial-data.md)
+* Introduction
 * [Building Your Survey](building-your-survey.md)
 * [Survey Best Practices](survey-best-practices.md)
 * [Data Collection 101](data-collection-101.md)
