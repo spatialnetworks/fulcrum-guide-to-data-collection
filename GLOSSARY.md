@@ -217,7 +217,7 @@ The final results of an expression evaluation.
 ## Variable
 A name which is assigned a value.
 ## Vector
-In GIS, features composed of point, line or polygon geometry.
+In GIS, features composed of point, line, or polygon geometry.
 ## Visual Hierarchy
 
 ## Waypoint
