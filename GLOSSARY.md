@@ -182,7 +182,6 @@ An invented geography with the coordinates 0°, 0°. Null Island is a concept de
 
 ## Piloting
 Testing or trial of a process before fully conducting it.
-
 ## Quadrant
 ## Qualitative
 ## Quantitative
@@ -192,16 +191,23 @@ Testing or trial of a process before fully conducting it.
 ## Sample / Sampling
 An observation or collected record / the process of collecting data.
 ## Scale
-## Shapefile
-## SQL
-## Surveying
-## Symbology
 
+## Shapefile
+Developed by the company Esri, a Shapefile is a combination of files which together represent vector geometry and attributes of GIS data.
+## SQL
+An acronym for Structured Query Language, SQL is the primary language for manipulating databases.
+## Surveying
+The science of assessing and documenting lands for precise measurement and evaluation.
+## Symbology
+In cartography, the use of characters, symbols, or styles for representation of meaning.
 ## Spatial Data
 A piece of information with a spatial or geographic component.
 ## Sub-Field
+
 ## Table
+Numbers or values arranged in rows and columns.
 ## Theodolite
+A surveying instrument for measuring horizontal and vertical angles.
 ## Tile
 Small and numerous images of map data that together combine a larger map - typically viewed on the web.
 ## Tile Server
