@@ -152,42 +152,67 @@ The science and study of the earth, its inhabitants, physical features, and atmo
 ## Ground Truthing
 Verifying a record of observation directly at the subject's site.
 ## Icon
+
 ## International Date Line
+
 ## Interpolation
+
 ## Joining
+
 ## Latitude
+
 ## Longitude
+
 ## Layer
+
 ## Legend
+
 ## Line
+
 ## Map
+
 ## Method
+
 ## Mean
+
 ## Median
+
 ## Metes And Bounds
 
 ## Monitoring
 A repeated process or workflow which observes or records something.
 ## Nadir
+
 ## Navigation
+
 ## Noise
 
 ## Null Island
 An invented geography with the coordinates 0°, 0°. Null Island is a concept derived from the results of geocoding data where the intended coordinates could not be matched for the entered address - resulting in a "0,0" being returned.
 ## Overlay
+
 ## Parcel
+
 ## Plat
+
 ## Position
+
 ## Precision
 
 ## Piloting
 Testing or trial of a process before fully conducting it.
 ## Quadrant
+
 ## Qualitative
+
 ## Quantitative
+
 ## Query
+
 ## Raster
+
 ## Record
+
 ## Sample / Sampling
 An observation or collected record / the process of collecting data.
 ## Scale
