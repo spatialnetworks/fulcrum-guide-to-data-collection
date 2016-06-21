@@ -1,13 +1,13 @@
 ## Analysis
 A process where data is examined to infer a conclusion.
 ## Address
-A location of a residence or workplace, designated with numbers and/or letters, and arranged in a format for easy reference on a map
+A location of a residence or workplace, designated with numbers and/or letters, and arranged in a format for easy reference on a map.
 ## Alphanumeric Grid
-A grid with letters and numbers ordination used to easy locate places and features
+A grid with letters and numbers ordination used to easy locate places and features.
 ## Annotation
-Text, images, or notes on a map used to provide information to the user
+Text, images, or notes on a map used to provide information to the user.
 ## API
-A set of commands, tools, and protocols used to interact directly with information in a program
+A set of commands, tools, and protocols used to interact directly with information in a program.
 ## Assessment
 An evaluation of something to determine its quality, quantity, or state.
 ## Attribute
@@ -207,14 +207,24 @@ Small and numerous images of map data that together combine a larger map - typic
 ## Tile Server
 A collection of databases, libraries, and software which work together to return the correct map tiles to the requesting client.
 ## URL
+An acronym for Uniform Resource Locator, URL is a reference to a resource on the Internet.
 ## USGS
 A United States of America scientific agency for natural sciences, including earth science and biology.
 ## UTM
+An acronym for Universal Transverse Mercator, UTM is a coordinate system for the earth. UTM is not one single coordinate system but instead divides the earth into 60 different zones - each with their own projection.
 ## Value
+The final results of an expression evaluation.
 ## Variable
+A name which is assigned a value.
 ## Vector
+In GIS, features composed of point, line or polygon geometry.
 ## Visual Hierarchy
+
 ## Waypoint
+A point of reference generally associated with GPS units as stored coordinates with a few basic attributes.
 ## WGS84
+An acronym for World Geodetic Survey 1984, WGS is the standard coordinate system for the earth. It was established in 1984 and is used by GPS.
 ## Zenith
+
 ## Zoom
+The action of increasing or decreasing a viewshed.
