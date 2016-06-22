@@ -204,9 +204,9 @@ Testing or trial of a process before fully conducting it.
 ## Quadrant
 
 ## Qualitative
-
+Of or pertaining to analysis of the quality of something
 ## Quantitative
-
+Of or pertaining to analysis of the quantity of something
 ## Query
 
 ## Raster
