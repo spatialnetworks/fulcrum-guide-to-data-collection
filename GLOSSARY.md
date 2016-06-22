@@ -174,49 +174,49 @@ A graphical representation of the area between places.
 ## Method
 
 ## Mean
-
+The average in a set of numbers; add together to numbers in the set and divide by how many numbers there are.
 ## Median
-
+The middle number in a set of numbers; if there are two numbers in the middle position, take the average of those.
 ## Metes And Bounds
 A method of documenting land (as property), in which '_metes_' describe the distances between points and '_bounds_' refer to the prominent features and general layout of the area.
 ## Monitoring
 A repeated process or workflow which observes or records something.
 ## Nadir
-
+The direction below a position - opposite of zenith.
 ## Navigation
-
+The practice of determining ones location and accurately orienting your course to an intended destination.
 ## Noise
-
+Distortions in a signal which interfere with the intended message.
 ## Null Island
 An invented geography with the coordinates 0°, 0°. Null Island is a concept derived from the results of geocoding data where the intended coordinates could not be matched for the entered address - resulting in a "0,0" being returned.
 ## Overlay
 
 ## Parcel
-
+A legal boundary of land ownership.
 ## Plat
-
+A map document which primarily details land ownership parcels, but also describes boundaries and other relevant reference information. Also known as a Cadastral Map.
 ## Position
 
 ## Precision
-
+The closeness of measured values.
 ## Piloting
 Testing or trial of a process before fully conducting it.
 ## Quadrant
 
 ## Qualitative
-Of or pertaining to analysis of the quality of something
+Of or pertaining to analysis of the quality of something.
 ## Quantitative
-Of or pertaining to analysis of the quantity of something
+Of or pertaining to analysis of the quantity of something.
 ## Query
-
+A detailed request for information made against some data.
 ## Raster
-
+A type of GIS data which consists of a series of gridded cells that contain values representing various information such as elevation.
 ## Record
-
+An individual collection of values in a larger dataset.
 ## Sample / Sampling
 An observation or collected record / the process of collecting data.
 ## Scale
-
+The conversion factor between the distance on a map and that actual distance on the ground.
 ## Shapefile
 Developed by the company Esri, a Shapefile is a combination of files which together represent vector geometry and attributes of GIS data.
 ## SQL
@@ -256,6 +256,6 @@ A point of reference generally associated with GPS units as stored coordinates w
 ## WGS84
 An acronym for World Geodetic Survey 1984, WGS is the standard coordinate system for the earth. It was established in 1984 and is used by GPS.
 ## Zenith
-
+The direction above a position - opposite of nadir.
 ## Zoom
 The action of increasing or decreasing a viewshed.
