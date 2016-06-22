@@ -53,7 +53,7 @@ A letter or symbol.
 ## Clustering
 
 ## Compass
-
+A device which indicates the direction of magnetic north and references the bearing to the other cardinal directions.
 ## Compression
 A process run upon some data whereby it is transported or stored in a smaller size than its original composition.
 ## Concatenate
@@ -83,21 +83,21 @@ In Geodesy, a datum is a mathematical equation which defines a reference from wh
 ## Degree
 A unit of measurement of angles.
 ## Density
-
+The distribution or quantity of something per unit of area.
 ## Dimension
 A physical measurement of a property of an object.
 ## Distortion
 
 ## Distribution
-
+The spatial arrangement of an object or species.
 ## Economic Geography
 
 ## Edge
-
+The outside limit of an object, area, or surface
 ## Elevation
 The height above a given point.
 ## Envelope
-
+The box drawn around one or many features, also known as a Bounding Box.
 ## Equator
 The line of latitude that falls equidistant between the north and south poles, with the measurement of 0°.
 ## Error
@@ -128,19 +128,19 @@ Fields have different available types, including:
 * Date & Time
 * Sections
 ## Filter
-
+The process of including only a desired subset from the original dataset.
 ## Geocoding
 The process of deriving coordinates from a physical address.
 ## Geocomputation
 
 ## Geodatabase
-
+A database with the specialized ability to create, handle, and store geographic data.
 ## Geodesy
 The science and mathematics related to the shape of the earth, its position in space, and gravity.
 ## Geography
 The science and study of the earth, its inhabitants, physical features, and atmosphere.
 ## Geometry
-
+The branch of mathematics concerned with the properties and relations of shapes.
 ## GIS
 A collection of hardware, software, data, and personnel which together form a system for creating, updating, and disseminating geographic information.
 ## GPS
