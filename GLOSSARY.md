@@ -127,10 +127,14 @@ Fields have different available types, including:
 * Barcode
 * Date & Time
 * Sections
+
+
 ## Filter
 The process of including only a desired subset from the original dataset.
+
 ## Geocoding
 The process of deriving coordinates from a physical address.
+
 ## Geocomputation
 
 ## Geodatabase
