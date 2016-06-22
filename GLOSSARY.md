@@ -156,21 +156,21 @@ Verifying a record of observation directly at the subject's site.
 ## International Date Line
 The imaginary line running approximately along 180° longitude which demarcates one day from another. 
 ## Interpolation
-
+The act of estimation of a value within two known values.
 ## Joining
-
+When two or more columns from tables from a relational database are combined using values common to each.
 ## Latitude
-
+The angular distance of a point, north or south of the equator.
 ## Longitude
-
+The angular distance of a point, east or west of the Prime Meridian.
 ## Layer
-
+In GIS, a layer is a graphical representation of geographic data.
 ## Legend
-
+A map element which helps the user understand the symbology.
 ## Line
-
+The straight line distance between to points.
 ## Map
-
+A graphical representation of the area between places.
 ## Method
 
 ## Mean
@@ -178,7 +178,7 @@ The imaginary line running approximately along 180° longitude which demarcates 
 ## Median
 
 ## Metes And Bounds
-
+A method of documenting land (as property), in which '_metes_' describe the distances between points and '_bounds_' refer to the prominent features and general layout of the area.
 ## Monitoring
 A repeated process or workflow which observes or records something.
 ## Nadir
