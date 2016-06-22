@@ -142,11 +142,11 @@ The science and study of the earth, its inhabitants, physical features, and atmo
 ## Geometry
 
 ## GIS
-
+A collection of hardware, software, data, and personnel which together form a system for creating, updating, and disseminating geographic information.
 ## GPS
-
+A satellite based navigation system which consists of a network of satellites, ground control stations, and user receivers. One way signals are transmitted to users with positioning, navigation, and timing data as long as devices have a clear line-of-sight with four or more satellites.
 ## GMT
-
+An acronym for Greenwhich Mean Time, GMT is the former world time standard but has been since replaced by Coordinated Universal Time (UTC). They are generally considered equivalent. 
 ## Grid
 
 ## Ground Truthing
@@ -154,7 +154,7 @@ Verifying a record of observation directly at the subject's site.
 ## Icon
 
 ## International Date Line
-
+The imaginary line running approximately along 180° longitude which demarcates one day from another. 
 ## Interpolation
 
 ## Joining
