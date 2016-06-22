@@ -1,4 +1,4 @@
-# Guide to Field data collection
+# Guide to Field Data Collection
 
 Guide to Field data collection
 
