@@ -156,9 +156,9 @@ Verifying a record of observation directly at the subject's site.
 ## International Date Line
 The imaginary line running approximately along 180° longitude which demarcates one day from another. 
 ## Interpolation
-The act of estimation of a value within two known values.
+The act of estimating a value within two known values.
 ## Joining
-When two or more columns from tables from a relational database are combined using values common to each.
+When two or more columns from tables in a relational database are combined using values common to each.
 ## Latitude
 The angular distance of a point, north or south of the equator.
 ## Longitude
