@@ -10,6 +10,4 @@ For a transportation company, having accurate knowledge of which roads are block
 
 For those fighting pandemics, knowing where ill people reside, and where they've travelled can help researchers track down the cause or source of an pathogen, saving lives and preventing future outbreaks. In fact, this approach is the same used by epidemiologist Jon Snow, who identified the pump that was causing [London's Cholera outbreak in 1854](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak), by mapping the location of Cholera victims. Using this location data he identified the source of the outbreak as a single water pump on Broad Street.
 
-**Point needed here**
-
-The collection & analysis of spatial data can help businesses, governments, and organizations make better use of their land, resources and time. By better understanding the world around them, individuals can make better decisions. The real value of spatial data isn't just in the knowledge of the world around you, it's what you can do with that knowledge.
+The collection & analysis of spatial data can help businesses, governments, and organizations make better use of their land, resources and time. By better understanding the world around them, decision makers can make better choices. The real value of spatial data isn't just in the knowledge of the world around you, it's what you can do with that knowledge that makes it so valuable and powerful.
