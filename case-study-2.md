@@ -4,11 +4,9 @@
 * **Offices:** Maryland, Delaware, Pennsylvania, Virginia
 * [centuryeng.com][0]
 
-Engineers and technologists collaborating to provide comprehensive asset management solutions.
-
 <p style="text-align: center;"><img src="http://fulcrumapp.com/assets/img/cases/ce-logo.png" alt="Century Engineering logo"</p>
 
-Our Asset Management case study focuses around Century Engineering, Inc., a full service engineering consulting firm offering expertise in Civil, Geotechnical, Mechanical, Electrical, Plumbing, Structural, Environmental, Transportation, Utilities, Water/Wastewater and Geospatial Technology Solutions.
+Our Asset Management case study focuses around Century Engineering, Inc., a full service engineering consulting firm offering expertise in Civil, Mechanical, Structural, and Geospatial Technology Solutions.
 
 ### Program Management Solutions with Fulcrum
 
@@ -75,7 +73,7 @@ Century chose Fulcrum for many reasons, but primarily for its unmatched mobile d
 * Support for pairing peripheral Bluetooth GNSS/GPS receivers for high precision location capture on tablets and smart phones
 * Multi-team deployment and data conflict resolution
 
-Fulcrum is far more than just a mobile data collection platform. It has become a core component of the services provided by Century's Geospatial Technologies (GIS) team. The ability to access Fulcrum from external software/web-based solutions allows us to build enterprise-level tools to fulfill our clients' asset management, mapping, and reporting requirements. We find that industry alternatives are far more expensive while offering far less than what we can achieve with the Fulcrum platform. In 2014, Century leveraged Fulcrum to construct over 30 individual apps comprised of over 30,000 data points and over 40,000 photographs. We look forward to seeing what the Fulcrum Team brings in 2015, and we are constantly searching for new ways to use the product for improved data management practices and enhanced decision-making
+Fulcrum has become a core component of the services provided by Century's Geospatial Technologies (GIS) team. The ability to access Fulcrum from external software/web-based solutions allows us to build enterprise-level tools to fulfill our clients' asset management, mapping, and reporting requirements. We find that industry alternatives are far more expensive while offering far less than what we can achieve with the Fulcrum platform. In 2014, Century leveraged Fulcrum to construct over 30 individual apps comprised of over 30,000 data points and over 40,000 photographs. We look forward to seeing what the Fulcrum Team brings in the future, and we are constantly searching for new ways to use the product for improved data management practices and enhanced decision-making
 
 [0]: http://www.centuryeng.com
 [1]: http://www.deldot.gov/
