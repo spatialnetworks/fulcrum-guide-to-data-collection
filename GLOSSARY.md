@@ -174,7 +174,7 @@ A graphical representation of the area between places.
 ## Method
 
 ## Mean
-The average in a set of numbers; add together to numbers in the set and divide by how many numbers there are.
+The average in a set of numbers; add together the numbers in the set and divide by how many numbers there are.
 ## Median
 The middle number in a set of numbers; if there are two numbers in the middle position, take the average of those.
 ## Metes And Bounds
