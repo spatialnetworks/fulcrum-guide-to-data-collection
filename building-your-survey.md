@@ -6,20 +6,17 @@ The best approach to building surveys is work backwards. Identify what you want 
 ## **What do you want to learn?**
 
 
+The first step in building your survey is identifying exactly what you want to learn. By starting at the end, you can visualize how you want to present your information and come to a logical conclusion about how to proceed and what to collect. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
 
-The first step in building your survey is identifying exactly what you want to learn. By starting at the end, you can visualize how you want to present your information and come to a logical conclusion about how to proceed and what to collect. Here's a few examples that we can develop throughout this section:
+A project trying to gather information on fire risk may want to map out quantitative information on hydrants and fire prevention equipment within an area. A political poll trying to map out supporters might want to gather qualitative data on opinions and party affiliations without biasing the responses. 
 
-**Examples**
-
-* Are you trying to learn more political opinions within an population?*
- 
-* Are you trying to map fire hydrants in a specific area?*
-
-
+Understanding what you want to learn is crucial to determine what you need to collect, as it allows you to properly frame up your survey and collect data that is relevant for examining your hypothesis.
 
 ## **What metrics will you use**
 
-The next step is to identify metrics that will guide your decision making. Identifying these before conducting your survey will insure objectivity in your survey, by not biasing the reporting with after-the-fact analysis. The point in conducting a survey is to gain real-world knowledge, not to prove your point. If your data supports your hypothesis, great! If it doesnt, its never advisable to contort the metrics just to support your position. Also, avoid framing questions in a way that leads people to a desired conclusion, to avoid bias in your data.
+The next step is to identify metrics that will guide your decision making. Identifying these before conducting your survey will insure objectivity in your survey, by not biasing the reporting with after-the-fact analysis. The point in conducting a survey is to gain real-world knowledge, not to prove your point. 
+
+If your data supports your hypothesis, great! If it doesn't, its never advisable to contort the metrics just to bend data to support your position. Also, avoid framing questions in a way that leads people to a desired conclusion, to avoid bias in your data.
 
 
 ## **What data should you collect**
