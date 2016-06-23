@@ -19,7 +19,7 @@ The first step in building your survey is identifying exactly what you want to l
 
 ## **What metrics will you use**
 
-The next step is to identify metrics that will guide your decision making. Identifying these before conducting your survey will insure objectivity in your survey, by not biasing the reporting with after-the-fact analysis. The point in conducting a survey is to gain real-world knowledge, not to prove your point. If your data supports your hypothesis, great! If it doesnt, its not advisable to contort the metrics to support your position. Avoid 
+The next step is to identify metrics that will guide your decision making. Identifying these before conducting your survey will insure objectivity in your survey, by not biasing the reporting with after-the-fact analysis. The point in conducting a survey is to gain real-world knowledge, not to prove your point. If your data supports your hypothesis, great! If it doesnt, its never advisable to contort the metrics just to support your position. Also, avoid framing questions in a way that leads people to a desired conclusion, to avoid bias in your data.
 
 
 ## **What data should you collect**
