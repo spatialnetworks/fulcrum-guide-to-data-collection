@@ -21,11 +21,18 @@ If your data supports your hypothesis, great! If it doesn't, its never advisable
 
 ## **What data should you collect**
 
+Identifying the pieces of data you need to collect in the field is the next crucial step. Often times, people make 2 missteps at this process. They either try to collect everything they can, or as little as they can, and both of these approaches can cause problems. 
 
+Trying to collect too little field information can make your survey lack sufficient data for a meaningful answer, while collecting too much data can lead to people terminating a survey midway through. Get a feel for the time it takes to complete the survey by practicing your questions on a friend or coworker, in order to produce a survey is quick and thorough. 
 
+Try to isolate the minimum amount of key data needed for your project, and add a few additional fields or a comment section as well, so your survey gatherers can take notes or collect other insightful data in the field. 
 
 ## **How should you lay it out**
 
+Chunking sections off
+Labeling
+Skip Logic
+Calculation Fields
 
 
 
