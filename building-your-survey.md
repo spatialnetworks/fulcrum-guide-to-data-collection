@@ -6,9 +6,12 @@ The best approach to building surveys is work backwards. Identify what you want 
 
 The first step in building your survey is identifying exactly what you want to learn. By starting at the end, you can visualize how you want to present your information and come to a logical conclusion about how to proceed and what to collect. Here's a few examples that we can develop throughout this section:
 
-1. Are you trying to learn more about the cultures and country of origin represented within an population?
-2. Are you trying to understand traffic issues at an intersection?
-3. Are you trying to 
+Examples:
+
+ Are you trying to learn more political opinions within an population?
+ 
+ Are you trying to map fire hydrants in a specific area?
+
 
 
 **What metrics will you use**
