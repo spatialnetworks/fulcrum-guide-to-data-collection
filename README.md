@@ -2,17 +2,17 @@
 
 ![](http://www.fulcrumapp.com/assets/img/fulcrum-logo.png)
 
-Welcome, and thank you for downloading Fulcrum's Ultimate Guide to Data Collection! In this guide, you will find:
+Welcome and thank you for downloading Fulcrum's Ultimate Guide to Data Collection! In this guide, you will find:
 
 - A guide to learning the ins and outs of data collection
 - Best practices for designing your survey
 - Tips for field data collection
 - A glossary of common data collection, mapping, and analysis terms
-- And some great offers from Fulcrum and our partners
+- Some great offers from Fulcrum and our partners
 
 **Who Is This Guide For?**
 
-If you've ever wanted to learn how to collect data in the field, building a custom map, or just want to know more about the world of map making, this book is for you. If you've never conducted a field survey or collected data before, you'll find the tips you need in this book to confidently conduct your first field data collection and mapping project. 
+If you've ever wanted to learn how to collect data in the field, or build a custom map, or just want to know more about the world of map making, this book is for you. If you've never conducted a field survey or collected data before, you'll find the tips you need in this book to confidently conduct your first field data collection and mapping project. 
 
 It's everything you'll need to get started collecting data better with forms and surveys.
 
