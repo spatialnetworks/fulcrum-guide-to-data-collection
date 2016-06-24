@@ -28,11 +28,10 @@ Try to isolate the minimum amount of key data needed for your project, and add a
 
 ## **How should you lay it out**
 
-Chunking sections off
-Labeling
-Skip Logic
-Calculation Fields
+The way you format and layout your survey can help save time and reduce the work needed to collect data in the field. We'll focus on 4 major ways to improve the collection speed: **Chunking, Labeling, Skip Logic** and **Calculation Fields**
 
+**Chunking** is the grouping of similar questions in a cluster, which helps organize your survey conceptually and allows it to flow easier. If you have 5 questions on history, and 5 questions on politics in your survey, grouping them into 2 clusters will help in the field. This way [REASON]
 
+Labeling 
 
 
