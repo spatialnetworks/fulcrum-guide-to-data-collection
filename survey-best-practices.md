@@ -10,6 +10,7 @@ Conducting surveys can provide useful answers to specific questions. They don't 
 * [Put questions in a positive form](#positive)
 * [Offer a balanced set of responses](#balanced)
 * [Adding a comments section for field notes](#comments)
+* Using Choice Fields
 
 ### Keep questions relevant and specific <a id="relevant"></a>
 Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation.
