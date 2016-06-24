@@ -2,7 +2,8 @@
 
 Guide to Field data collection
 
-A. Building Survey
+
+A. Identifying parameters and range
 
 B. Plotting Course
 
