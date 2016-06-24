@@ -5,7 +5,6 @@ The best approach to building surveys is work backwards. Identify what you want 
 
 ## **What do you want to learn?**
 
-
 The first step in building your survey is identifying exactly what you want to learn. By starting at the end, you can visualize how you want to present your information and come to a logical conclusion about how to proceed and what to collect. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
 
 A project trying to gather information on fire risk may want to map out quantitative information on hydrants and fire prevention equipment within an area. A political poll trying to map out supporters might want to gather qualitative data on opinions and party affiliations without biasing the responses. 
