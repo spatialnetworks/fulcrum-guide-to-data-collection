@@ -30,10 +30,10 @@ Try to isolate the minimum amount of key data needed for your project, and add a
 
 The way you format and layout your survey can help save time and reduce the work needed to collect data in the field. We'll focus on 4 major ways to improve the collection speed: **Chunking, Labeling, Skip Logic** and **Calculation Fields**
 
-**Chunking** is the grouping of similar questions in a cluster, which helps organize your survey conceptually and allows it to flow easier. If you have 5 questions on history, and 5 questions on politics in your survey, grouping them into 2 clusters will help in the field. This way [REASON]
+**Chunking** is the grouping of similar questions in a cluster, which helps organize your survey conceptually and allows it to flow easier. If you have 5 questions on history, and 5 questions on politics in your survey, grouping them into 2 clusters make logical sense, and will reduce the time needed to collect infomation in the field.
 
 **Labeling** is the method of adding a label to chunks of questions you've already grouped together. This helps the surveyor understand the various of blocks of data they are collecting, and gives them an idea as to how far along they are in the survey. When a survey is well labeled, a surveyor can parse a long question set easily, and find questions without having to read each question and entry to find a specific piece of data later on.
 
-**Skip Logic** is the use of a conditional question that opens or closes new questions in the survey. 
+**Skip Logic** is the use of a conditional question that opens or closes new questions in the survey. If a person answers a question that makes later questions irrelevant, skip logic allows you to 
 
 
