@@ -10,9 +10,9 @@ Welcome, and thank you for downloading Fulcrum's Ultimate Guide to Data Collecti
 - A glossary of common data collection, mapping, and analysis terms
 - And some great offers from Fulcrum and our partners
 
-Who Is This Guide For?
+**Who Is This Guide For?**
 
-If you've ever wanted to learn to build a custom maps, collect field data for a project, or just want to know more about the world of map making, this book is for you. If you've never collected field data or built a map before, you'll find the tips you need in this book to confidently conduct your first field data collection project. 
+If you've ever wanted to learn how to collect data in the field, building a custom map, or just want to know more about the world of map making, this book is for you. If you've never conducted a field survey or collected data before, you'll find the tips you need in this book to confidently conduct your first field data collection and mapping project. 
 
 It's everything you'll need to get started collecting data better with forms and surveys.
 
