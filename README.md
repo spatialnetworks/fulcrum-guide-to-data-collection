@@ -1,6 +1,6 @@
 # Fulcrum Guide to Data Collection
 
-![](fulcrum-logo.svg)
+![](http://www.fulcrumapp.com/assets/img/fulcrum-logo.svg)
 
 Welcome and thank you for downloading Fulcrum's Ultimate Guide to Data Collection! In this guide, you will find:
 
