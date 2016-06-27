@@ -31,5 +31,3 @@ Phrasing questions in the negative can be confusing and may bias your responses.
 Give a range of answers that are inclusive and fair. Avoid errors of omission by including multiple options that cover all possible responses to your question.
 ### Add a comments section for field notes <a id="comments"></a>
 Sometimes in the field, you might find important notes, data, or additional information you may want to relay to the analysts. Adding an optional comments section at the bottom of your survey allows your surveyors to add important information that otherwise might have been overlooked.
-
-If you are proofing this, send me a message with the word "Read it"
