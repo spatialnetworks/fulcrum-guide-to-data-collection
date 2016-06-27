@@ -5,7 +5,7 @@ Conducting surveys can provide useful answers to specific questions. They don't 
 * [Keep questions relevant and specific](#relevant)
 * [Make questions short](#short)
 * [Use simple language](#simple)
-* [Ask about only one thing at a time](#one-thing)
+* [Ask about one thing at a time](#one-thing)
 * [Avoid biased language & leading questions](#biased)
 * [Put questions in a positive form](#positive)
 * [Offer a balanced set of responses](#balanced)
@@ -18,13 +18,12 @@ Ensure you're asking for pertinent information only. Avoid unnecessary details, 
 Keep your inquiries as direct and to the point as possible. 
 ### Use simple language <a id="simple"></a>
 Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion.
-### Ask about only one thing at a time <a id="one-thing"></a>
+### Ask about one thing at a time <a id="one-thing"></a>
 One question, one answer. Ask for one thing at a time, and avoid open ended questions without a clear answer. If you are proofing this, send me a message with the word "Read it"
-
 ### Avoid biased language & leading questions <a id="biased"></a>
 Phrase your questions to be considerate, inclusive, and respectful. Dont frame up or lead the question with unnecessary adjectives and adverbs that may bias a respondee's answer. Remain objective and avoid asking questions that may direct the subject to answer in a particular way.
 ### Put questions in a positive form <a id="positive"></a>
-Phrasing questions in the negative can be confusing and may bias your responses. It can be confusing to ask about _what is not_, instead ask about _what is_. 
+Phrasing questions negatively can be confusing and may bias your responses. It can be confusing to ask about _what is not_, instead ask about _what is_. 
 ### Offer a balanced set of responses <a id="balanced"></a>
 Give a range of answers that are inclusive and fair. Avoid errors of omission by including multiple options that cover all possible responses to your question.
 ### Add a comments section for field notes <a id="comments"></a>
