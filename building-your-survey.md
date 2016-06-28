@@ -1,10 +1,10 @@
 # Building Your Survey
 
-The best approach to building a survey is to work backwards. Identify what you want to learn and how you want to measure results before you begin designing. By building surveys with end goals in mind, it will help you locate which piece of data you should collect, and how you can structure your survey for the best results when its time to collect data in the field.
+The best approach to building a survey is to work backwards. Identify what you want to learn and how you want to measure results before you begin designing. Much of effective survey design is about not just _what_ to collect, but also _how_ it's collected. Thinking about the end goals keeps you focused on results first, and process second. Starting at the end lets you create a process that matches your desired end state. Once you've identified what "success" looks like, you can analyze the details of what fields you need, what order, and more.
 
 ## What do I want to learn? 
 
-The first step in building your survey is identifying exactly what you want to learn. By starting at the end, you can visualize how you want to present your information and come to a logical conclusion about how to proceed and what to collect. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
+The first step in building your survey is identifying the information you need to have in the end for success. By starting at the end, you can visualize how you want to present your information and come to a logical conclusion about how to proceed and what to collect. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
 
 A project trying to gather information on 'fire risk' may want to map out quantitative information on hydrants and fire prevention equipment within an area. A political poll trying to map out supporters might want to gather qualitative data on opinions and party affiliations without biasing the responses.
 
