@@ -1,7 +1,7 @@
 # Summary
 
-* [readme](README.md)
 * [Cover Page](00-introduction.md)
+* [readme](README.md)
 * [The Value of Spatial Data](01-the-value-of-geospatial-data.md)
 * [Data Collection 101](02-data-collection-101.md)
 * [Building Your Survey](03-building-your-survey.md)
