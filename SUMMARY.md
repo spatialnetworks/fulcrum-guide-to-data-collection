@@ -1,6 +1,5 @@
 # Summary
 
-* [Cover Page](00-introduction.md)
 * [Introduction](README.md)
 * [The Value of Spatial Data](01-the-value-of-geospatial-data.md)
 * Real Introduction
