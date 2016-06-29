@@ -1,6 +1,5 @@
 # Summary
 
-* [README - COVER ART](README.md)
 * [Introduction](introduction.md)
 * [The Value of Spatial Data](01-the-value-of-geospatial-data.md)
 * [Data Collection 101](02-data-collection-101.md)
