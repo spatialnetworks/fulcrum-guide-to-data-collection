@@ -2,7 +2,6 @@
 
 * [Title Page](introduction.md)
 * [Introduction](README.md)
-* [Table of Contents](table-of-contents.md)
 * [The Value of Spatial Data](the-value-of-geospatial-data.md)
 * [Data Collection 101](data-collection-101.md)
 * [Building Your Survey](building-your-survey.md)
