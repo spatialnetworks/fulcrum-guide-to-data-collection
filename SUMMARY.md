@@ -1,9 +1,9 @@
 # Summary
 
 * [README - COVER ART](README.md)
-* [The Value of Spatial Data](01-the-value-of-geospatial-data.md)
 * [Real Introduction](introduction.md)
 * [Data Collection 101](02-data-collection-101.md)
+* [The Value of Spatial Data](01-the-value-of-geospatial-data.md)
 * [Building Your Survey](03-building-your-survey.md)
 * [Survey Best Practices](04-survey-best-practices.md)
 * [Guide to Field data collection](guide-to-field-data-collection.md)
