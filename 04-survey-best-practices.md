@@ -13,6 +13,7 @@ Conducting surveys can provide useful answers to specific questions. They don't 
 * Using Choice Fields
 
 ### Keep questions relevant and specific <a id="relevant"></a>
+
 Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation.
 
 ### Make questions short <a id="short"></a>
@@ -34,6 +35,10 @@ Phrase your questions to be considerate, inclusive, and respectful. Don't frame 
 ### Put questions in a positive form <a id="positive"></a>
 
 Phrasing questions negatively can be confusing and may bias your responses. It can be confusing to ask about _what is not_, instead ask about _what is_. If you can reduce questions down to a binary "yes or no" question, that makes things even simpler for the collector to understand.
+
+### Consider the ordering of questions
+
+The order in which you display the fields on your survey form can make the difference between correct and inaccurate data. This is where field testing helps to iterate in your design process and get the structure just right. For ease-of-use, most of the time your questions should flow in the order the collector typically conducts the survey. If they're doing a construction site walkthrough inspection, structure the survey in the order the inspector moves through the site.
 
 ### Offer a balanced set of responses <a id="balanced"></a>
 
