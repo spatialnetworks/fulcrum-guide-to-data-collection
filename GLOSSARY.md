@@ -1,7 +1,7 @@
-## Analysis
-A process where data is examined to infer a conclusion.
 ## Address
+
 A location of a residence or workplace, designated with numbers and/or letters, and arranged in a format for easy reference on a map.
+
 ## Alphanumeric Grid
 
 A grid with letters and numbers ordination used to easy locate places and features.
@@ -49,63 +49,109 @@ An evaluation by measurements, conducted by a professionally licensed surveyor w
 ## Bounding Box
 
 ## CAD
+
 Computer-aided design - CAD, utilizes computer software to facilitate drawing, analyzing, and disseminating technical designs. It is typically used in architectural, engineering, and machining workflows.
+
 ## Calculation Field
+
 Calculation fields can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs). ([Reference](http://www.fulcrumapp.com/help/calculation-fields/))
+
 ## Calibration
+
 Readings and adjustments compared against a standard to ensure accuracy, typically with instruments or equipment.
+
 ## Cardinality
 
 ## Cartography
+
 The science of map creation.
+
 ## Cartesian Coordinate System
 
 ## Cell
+
 With spreadsheet or raster data, cells are the intersections of rows and columns.
+
 ## Cartographic Generalization
+
 The process of reducing the detail of the features being represented within a visualization.
+
 ## Centroid
+
 The center point of geometric object such as a line or polygon.
+
 ## Character
+
 A letter or symbol.
+
 ## Class
 
-## Cluster Analysis
-
 ## Clustering
-A behavior by lemmings to see who can get the closest to center
+
+A process in online maps that groups bundles of nearby points when they're too close at the given scale to discern any difference. As the viewer zooms out, points typically cluster together to form a single graphic with a count.
+
 ## Compass
+
 A device which indicates the direction of magnetic north and references the bearing to the other cardinal directions.
+
 ## Compression
+
 A process run upon some data whereby it is transported or stored in a smaller size than its original composition.
+
 ## Concatenate
+
 To link or chain things together, in series.
+
 ## Conditional
+
 A concept in programming where different actions are executed depending upon whether a boolean value is met.
+
 ## Connectivity
 
 ## Contour
+
 A line joining points of equal elevation, typically represented on a map or as a dataset.
+
 ## Coordinate
+
 A set of numbers representing a position.
+
 ## Cultural Geography
+
 The study of various aspects of human culture across the globe and throughout time.
+
 ## Database
+
 A collection of data that is stored in a manner which enables efficient retrieval.
+
 ## Data Collector
+
 A data collector can be a person and/or a device. The data collector records observations, states, or quantities of a particular subject.
+
 ## Data Collection/Data Capture
+
 A process whereby observations are documented according to a predetermined set of criteria.
+
 ## Dataset
+
 A collection of related data.
+
 ## Data Type
+
 The classification of data which determines what sort of values can be stored and how it can be used.
+
 ## Datum
+
 In Geodesy, a datum is a mathematical equation which defines a reference from which measurements can be taken.
+
 ## Degree
+
 A unit of measurement of angles.
+
 ## Density
+
 The distribution or quantity of something per unit of area.
+
 ## Dimension
 
 A physical measurement of a property of an object.
