@@ -17,11 +17,11 @@ Ensure you're asking for pertinent information only. Avoid unnecessary details, 
 
 ### Make questions short <a id="short"></a>
 
-Keep your inquiries as direct and to the point as possible.
+Keep your questions as direct and to the point as possible. The more pointed the question, the less risk there is of a collector mis-reading the question and answering incorrectly. Breaking up a survey into many smaller questions versus fewer longer ones also results in richer, more useful data in the end.
 
 ### Use simple language <a id="simple"></a>
 
-Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion.
+Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion. Sometimes technical jargon may be required, but keep in mind the audience that's being asked to complete the survey. Is the question something they'll understand?
 
 ### Ask about one thing at a time <a id="one-thing"></a>
 
@@ -33,7 +33,7 @@ Phrase your questions to be considerate, inclusive, and respectful. Don't frame 
 
 ### Put questions in a positive form <a id="positive"></a>
 
-Phrasing questions negatively can be confusing and may bias your responses. It can be confusing to ask about _what is not_, instead ask about _what is_. 
+Phrasing questions negatively can be confusing and may bias your responses. It can be confusing to ask about _what is not_, instead ask about _what is_. If you can reduce questions down to a binary "yes or no" question, that makes things even simpler for the collector to understand.
 
 ### Offer a balanced set of responses <a id="balanced"></a>
 
