@@ -2,7 +2,13 @@
 
 The best approach to building a survey is to work backwards. Identify what you want to learn and how you want to measure results before you begin designing. Much of effective survey design is about not just _what_ to collect, but also _how_ it's collected. Thinking about the end goals keeps you focused on results first, and process second. Starting at the end lets you create a process that matches your desired end state. Once you've identified what "success" looks like, you can analyze the details of what fields you need, what order, and more.
 
-## What do I want to learn? 
+* [What do I want to learn?](#learn)
+* [What metrics should I use?](#metrics)
+* [What data should I collect?](#collect)
+* [How should I lay out my survey?](#layout)
+* [Handling Changes](#changes)
+
+### What do I want to learn? <a id="learn"></a>
 
 The first step is to identify the information you need to have in the end for success &mdash; for your data to answer all the right questions. By starting at the end, you can visualize how you want to present your information. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
 
@@ -10,13 +16,13 @@ A project trying to assess "fire risk" may want to map out quantitative informat
 
 Understanding what you want to learn is crucial to determine what you need to collect. It allows you to properly frame up your survey and collect data that is relevant for examining your hypothesis.
 
-## What metrics should I use?
+### What metrics should I use? <a id="metrics"></a>
 
 The next step is to identify metrics that will guide your decision making. Identifying these before conducting your survey will ensure objectivity in your survey by avoiding bias through after-the-fact analysis. The point in conducting a survey is to gain real-world knowledge, not to prove your point. Your data should be factual information that you can then use to derive answers. Identifying these key indicators will feed into the specific fields to capture on your survey. 
 
 If your data supports your hypothesis, great! If it doesn't, its never advisable to contort the metrics just to bend data to support your position. Also, avoid framing questions in a way that leads people to a desired conclusion, to avoid bias in your data.
 
-## What data should I collect?
+### What data should I collect? <a id="collect"></a>
 
 Next you should break down your desired result into its individual components. Perhaps to answer your questions, your survey needs 25 different data fields. You then need to organize them in a fashion that makes it efficient for a field collector to fill out the survey. Often times people make 2 mistakes in this process. They either try to collect everything they can, or as little as they can, and both of these approaches can cause problems.
 
@@ -24,7 +30,7 @@ Collecting too little data can make your survey lack enough information for mean
 
 Try to isolate the fewest number of key data needed for your project, and add additional fields or a comment section as a catchall for general use. It's a good idea to have general "comments" fields for collectors to leave notes or other insightful info in the field.
 
-## How should I lay out my survey?
+### How should I lay out my survey? <a id="layout"></a>
 
 The way you format and layout your survey can help save time and reduce the work needed to collect data in the field. We'll focus on 4 major ways to improve the collection speed of your survey: **Chunking, Labeling, Skip Logic** and **Calculation Fields**.
 
@@ -36,7 +42,7 @@ The way you format and layout your survey can help save time and reduce the work
 
 **Calculation Fields** allow you to conduct simple or complex calculations instantly by using your other questions as inputs. For example, rather than having to tally up responses by hand, or use a calculator to determine the volume or area of a space, a calculation field can be used to take your initial measurements and generate an answer instantly. This is useful for individuals in engineering and construction who have to take specific measurements and create an estimate, right on site. Add this to your Fulcrum survey by visiting the [help page on Calculation Fields](http://www.fulcrumapp.com/help/calculation-fields/)
 
-## Handling Changes
+### Handling Changes <a id="changes"></a>
 
 After you deploy a survey to a collection team, there will always be modifications to make after it's in the field. In the days of pen and paper surveys, this was naturally a hassle to deal with, requiring editing Microsoft Word or PDF templates and re-printing new batches of forms to distribute. As a result, organizations using a method like this are tempted to overload their survey with every possible thing (see the chapter on best practices). Also because of the inefficiency of making changes, many positive survey structure changes would never be made.
 
