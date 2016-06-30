@@ -6,7 +6,7 @@ This chapter contains our recommendations for gathering data in the field.
 
 * [Plotting Course](#plotting-course) - optimize your field crew deployments.
 
-* [Using Basemaps](#basemaps) - provide context and reference for your team.
+* [Using Offline Basemaps](#basemaps) - provide context and reference for your team.
 
 * [Exporting the Data](#exporting) - get your data out in various formats.
 
@@ -16,7 +16,7 @@ This chapter contains our recommendations for gathering data in the field.
 
 ### Plotting Course <a id="plotting-course"></a>
 
-### Using Basemaps <a id="basemaps"></a>
+### Using Offline Basemaps <a id="basemaps"></a>
 
 ### Exporting the Data <a id="exporting"></a>
 
