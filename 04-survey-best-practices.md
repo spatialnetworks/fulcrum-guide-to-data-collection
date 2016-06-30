@@ -26,7 +26,7 @@ Be clear and obvious about what you're asking. Avoid flowery language, terminolo
 
 ### Ask about one thing at a time <a id="one-thing"></a>
 
-One question, one answer. Ask for one thing at a time, and avoid open-ended questions without a clear answer. If you are proofing this, send me a message with the word "Read it"
+One question, one answer. Ask for one thing at a time, and avoid open-ended questions without a clear answer.
 
 ### Avoid biased language & leading questions <a id="biased"></a>
 
