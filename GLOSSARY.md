@@ -116,10 +116,10 @@ The act of projecting a conclusion based upon existing data and current trends.
 In computing, an output of data in a particular format type.
 ## Feature
 A distinct attribute or property.
-## Field
-A location outdoors, either in the built or natural environment, or an element of a record, representing a single piece of data. 
+## Form Field
+An element of a record, representing a single piece of data. 
 
-Fields have different available types, including: 
+Form Fields have different available types, including: 
 * Text 
 * Numeric
 * Yes / No
