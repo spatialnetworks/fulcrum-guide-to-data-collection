@@ -1,5 +1,3 @@
-## Analysis
-A process where data is examined to infer a conclusion.
 ## Address
 A location of a residence or workplace, designated with numbers and/or letters, and arranged in a format for easy reference on a map.
 ## Alphanumeric Grid
@@ -61,8 +59,6 @@ A process run upon some data whereby it is transported or stored in a smaller si
 To link or chain things together, in series.
 ## Conditional
 A concept in programming where different actions are executed depending upon whether a boolean value is met.
-## Connectivity
-
 ## Contour
 A line joining points of equal elevation, typically represented on a map or as a dataset.
 ## Coordinate
@@ -172,10 +168,6 @@ The angular distance of a point, east or west of the Prime Meridian.
 In GIS, a layer is a graphical representation of geographic data.
 ## Legend
 A map element which helps the user understand the symbology.
-## Line
-The straight line distance between to points.
-## Map
-A graphical representation of the area between places.
 ## Mean
 The average in a set of numbers; add to
 gether the numbers in the set and divide by how many numbers there are.
