@@ -2,7 +2,16 @@
 
 While most organizations collect some form of data in the field &mdash; whether it's asset inventory, sales meetings, or facility inspections &mdash; many don't make effective use of that data throughout their organizations. Data captured in the field is some of the most valuable business information at a company's disposal. It reflects what's happening at the point of transaction or the real picture of what's going on at the job site. Historically it's been a challenge to maintain close ties between a field service operation's ground-level personnel and upper level management. Pen and paper data capture processes using triplicate forms meant that results couldn't be delivered to decision makers without first going through a time-consuming process of transcription, cleanup, aggregation, and report-building. Often by the time the results reach into the higher echelons, it's been months since the information was collected. In all cases, more timely flow of intelligence from the field is an enormous asset to an organization, allowing managers to make better decisions with up-to-the-minute answers to their questions.
 
-Here's a scenario: 
+Field data collection is one of the best ways to gain insights into the facts of an operation:
+
+* What condition are our assets in?
+* Have we performed safety audits on all our job sites?
+* Are we in compliance at all our facilities?
+* Which work orders are completed and which aren't?
+
+Whether they're inspectors, auditors, technicians, or salespeople, empowering your field staff with tools to contribute information they collect into an institutional knowledge base for everyone.
+
+With a well-planned and designed field data collection process, you'll be able to get rapid feedback from the field to save money, stay in compliance, and create more value from your field operations investments throughout your organization.
 
 ### Adding the Spatial Dimension
 
