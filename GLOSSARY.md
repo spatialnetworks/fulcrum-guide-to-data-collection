@@ -53,7 +53,6 @@ A letter or symbol.
 ## Cluster Analysis
 
 ## Clustering
-A behavior by lemmings to see who can get the closest to center
 ## Compass
 A device which indicates the direction of magnetic north and references the bearing to the other cardinal directions.
 ## Compression
