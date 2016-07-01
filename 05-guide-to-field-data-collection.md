@@ -10,7 +10,7 @@ In our previous chapters we've outlined the basics of data collection, building 
 
 ### Identifying Parameters and Range <a id="parameters-and-range"></a>
 
-As outlined in [Data Collection 101](https://fulcrumapp.gitbooks.io/fulcrum-guide-to-data-collection/content/02-data-collection-101.html#Survey-Design), your survey design will dictate the details and scope of what you will collect.
+As outlined in [Data Collection 101](https://fulcrumapp.gitbooks.io/fulcrum-guide-to-data-collection/content/02-data-collection-101.html#Survey-Design), your survey design will dictate the details and scope of what you will collect. It is important to conform to the standards set forth in your survey design to ensure consistency of the data collected by you and others on your team. Going outside the identified parameters and range can skew your data and potentially compromise the results of your final analysis.
 
 ### Plotting Course <a id="plotting-course"></a>
 
