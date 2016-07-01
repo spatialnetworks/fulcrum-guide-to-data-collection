@@ -7,7 +7,7 @@
 * [Analysis](#Analysis) - What insights can I gather? What does the data suggest?
 * [Distribution](#Distribution) - How will I share the data?
 
-Every data collection process contains common steps in the workflow. From initial scoping and design to final results, understanding the overview of steps helps you think through the complete start-to-finish process. With a successful project design, you should have a pretty good idea of not only what you want to collect, but also what you expect to do with the data at the end.
+Every **data collection** process contains common steps in the workflow. From initial scoping and design to final results, understanding the overview of steps helps you think through the complete start-to-finish process. With a successful project design, you should have a pretty good idea of not only what you want to collect, but also what you expect to do with the data at the end.
 
 ### Purpose <a id="Purpose"></a>
 
