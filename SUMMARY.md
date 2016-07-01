@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](introduction.md)
-* [The Value of Spatial Data](01-the-value-of-geospatial-data.md)
+* [The Value of Field Data](01-the-value-of-field-data.md)
 * [Data Collection 101](02-data-collection-101.md)
 * [Building Your Survey](03-building-your-survey.md)
 * [Survey Best Practices](04-survey-best-practices.md)
