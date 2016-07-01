@@ -1,6 +1,6 @@
 ## The Value of Field Data
 
-While most organizations collect some form of data in the field &mdash; whether it's asset inventory, sales meetings, or facility inspections &mdash; many don't make effective use of that data throughout their organizations. Data captured in the field is some of the most valuable business information at a company's disposal. It reflects what's happening at the point of transaction or the real picture of what's going on at the job site. 
+While most organizations collect some form of data in the field &mdash; whether it's asset inventory, sales meetings, or facility inspections &mdash; many don't make effective use of that data throughout their organizations. **Data captured in the field is some of the most valuable business information at a company's disposal.** It reflects what's happening at the point of transaction or the real picture of what's going on at the job site. 
 
 Historically, it's been a challenge to maintain close ties between a field service operation's ground-level personnel and upper level management. Pen and paper data capture processes using triplicate forms meant that results couldn't be delivered to decision makers without first going through a time-consuming process of transcription, cleanup, aggregation, and report-building. Often by the time the results reach into the higher echelons, it's been months since the information was collected. 
 
