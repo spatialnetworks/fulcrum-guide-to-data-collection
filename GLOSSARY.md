@@ -246,8 +246,6 @@ An acronym for Uniform Resource Locator, URL is a reference to a resource on the
 A United States of America scientific agency for natural sciences, including earth science and biology.
 ## UTM
 An acronym for Universal Transverse Mercator, UTM is a coordinate system for the earth. UTM is not one single coordinate system but instead divides the earth into 60 different zones - each with their own projection.
-## Value
-The final results of an expression evaluation.
 ## Variable
 A name which is assigned a value.
 ## Vector
