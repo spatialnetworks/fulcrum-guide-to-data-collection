@@ -21,7 +21,7 @@ With a well-planned and designed field data collection process, you'll be able t
 
 From planning where to put a new business to maximize traffic, to plotting the shortest route for a delivery schedule, knowing the world around you is crucial to making better business decisions.
 
-Geographers use a variety of tools to collect, process, and analyze their data to create maps, charts, and graphs to empower decision makers to make more informed choices. Collectively known as GIS, these tools make use of **spatial data**, or data collected with a spatial component, in order to plot information on maps. Spatial data can be time-consuming to collect, but has massive value for an organization.
+Geographers use a variety of tools to collect, process, and analyze their data to create maps, charts, and graphs to empower decision makers to make more informed choices. Collectively known as GIS, these tools make use of **spatial data**, or data collected with a spatial component, in order to plot information on maps. Collecting this data can be time-consuming, but has massive value for an organization.
 
 The boom in location data available today has expanded the market for GIS data and tools. GIS gives analysts the ability to use location data and spatial relationships to derive novel information. For many businesses, maintaining an accurate inventory is crucial for knowing what items are in stock, but that same data can be used in ways that make the business even more efficient. 
 
