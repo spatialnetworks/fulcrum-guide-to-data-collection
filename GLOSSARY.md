@@ -143,7 +143,7 @@ The science and study of the earth, its inhabitants, physical features, and atmo
 ## Geometry
 The branch of mathematics concerned with the properties and relations of shapes.
 ## GIS
-A collection of hardware, software, data, and personnel which together form a system for creating, updating, and disseminating geographic information.
+An acronym for Geographic Information System - A collection of hardware, software, data, and personnel which together form a system for creating, updating, and disseminating geographic information.
 ## GPS
 A navigation system which consists of a network of orbiting satellites, ground control stations, and user receivers. One way signals are transmitted to users with positioning, navigation, and timing data as long as devices have a clear line-of-sight with four or more satellites.
 ## GMT
