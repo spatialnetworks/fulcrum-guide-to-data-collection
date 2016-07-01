@@ -7,6 +7,8 @@
 * [Analysis](#Analysis) - What insights can I gather? What does the data suggest?
 * [Distribution](#Distribution) - How will I share the data?
 
+Every data collection process contains common steps in the workflow. From initial scoping and design to final results, understanding the overview of steps helps you think through the complete start-to-finish process. With a successful project design, you should have a pretty good idea of not only what you want to collect, but also what you expect to do with the data at the end.
+
 ### Purpose <a id="Purpose"></a>
 
 _What do I want to learn?_
@@ -15,25 +17,25 @@ Having a clear and defined **purpose** for your field data collection is imperat
 
 Begin defining your purpose by analyzing precisely what data you need to collect to answer the questions which have led you to this point originally. There will likely be additional data you _could_ collect while in the field but take caution against **scope creep**[^1]. Any additional data collected can quickly add to the time and money spent conducting your survey.
 
-If what you're looking to learn can be determined back in the office - don't include it in your field data collection process. For example, why walk around a field to mark the corners and determine the area, when you can do that at a desk with GIS software?
+If what you're looking to learn can be determined back in the office, don't include it in your field data collection process. For example, why collect information that can be pre-loaded into your survey for collectors to _validate_, rather than collect from scratch?
 
 ### Survey Design <a id="Survey-Design"></a>
 
 _Framing the question: What should I collect?_
 
-How you setup your data collection survey will be critical to its success. The way you design how observations are recorded will have a tremendous impact on the way the data is collected and how its later processed and analyzed. An effective survey is one that is specific and focused; you don't want to get onto a tangent away from your original purpose. '_Nice to have_' information can quickly take away from the precious time it takes for your team to conduct the survey; it should be scrutinized as to whether it really needs to be captured.
+How you set up your data collection survey will be critical to its success. The way you design how observations are recorded will have a tremendous impact on the way the data is collected and how its later processed and analyzed. An effective survey is one that is specific and focused. You don't want to go on a tangent away from your original purpose. "Nice to have" information can quickly take away from the precious time it takes for your team to conduct the survey; it should be scrutinized as to whether it really needs to be captured.
 
-For your questions, provide appropriate answer choices to pick from. This includes framing your questions fairly and being inclusive while also keeping them brief and direct. Consider how the data will be processed and analyzed as you're designing your survey. For example: do you want to allow a question to be answered with an open-ended response, or provide a range of structured answers to be chosen from instead?
+For your questions, provide appropriate answer choices to pick from. This includes framing your questions fairly and being inclusive while also keeping them brief and direct. Consider how the data will be processed and analyzed as you're designing your survey. For example: do you want to allow a question to be answered with an open-ended response, or provide a range of structured answers to choose from instead?
 
-Other things to consider surrounding your survey design include whether you will need supporting reference information while collecting the data. If a field user needs to confirm that they're within a certain area while collecting the observation - how will they be able to confirm that? Design and logistics go hand-in-hand. For example, will you be working in an area requiring access to cellular connectivity? Detailed tips and suggestions can be found in our related mini-guide: [Survey Best Practices](survey-best-practices.md).
+Other things to consider surrounding your survey design include whether you will need supporting reference information while collecting the data. If a field user needs to confirm that they're within a certain area while collecting the observation,  how will they be able to confirm that? Design and logistics go hand-in-hand. For example, will you be working in an area requiring access to cellular connectivity? Detailed tips and suggestions can be found in a later section on [Survey Best Practices](survey-best-practices.md).
 
 ### Protocol <a id="Protocol"></a>
 
 _How will I collect it?_
 
-Your protocol should include training of the personnel who will be collecting your data. The level of understanding and competency your field staff possess will reflect itself in the quality of your data. It will be beneficial to have a longterm project timeline and schedule of daily activities.
+Your protocol should include training of the personnel who will be collecting your data. The level of understanding and competency your field staff possess will reflect itself in the quality of your data. It will be beneficial to have a long-term project timeline and schedule of daily activities.
 
-Identify what personnel will be on your data collection team and determine if they will need to work together. Consider the logistics to safely and efficiently perform your survey. Your situation may warrant a team of two to have one driver and one person collecting data.
+Identify what personnel will be on your data collection team and determine if they will need to work together. Consider the logistics to safely and efficiently perform your survey. Your situation may warrant a team of two to, for example, have one driver and one person collecting data.
 
 You may require certain conditions regarding weather and seasonality to be met before you _can_ or _cannot_ do your survey. As you define your procedure you will need to determine if you'll be collecting this data while driving in vehicles, on-foot, or perhaps remotely. Establish a schedule if there will be any revisit frequency to your data collection.
 
