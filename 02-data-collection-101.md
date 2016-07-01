@@ -11,9 +11,9 @@
 
 _What do I want to learn?_
 
-Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground and field surveys can be expensive, timewise and financially. You should clearly define your goals and objectives before conducting your data collection activities.
+Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground and field surveys can be expensive, in both time and money. You should clearly define your goals and objectives before conducting your data collection activities.
 
-Begin defining your purpose by analyzing precisely what data you need to collect to answer the questions which have led you to this point originally. There will likely be additional data you _could_ collect while in the field but take caution against **mission creep**. Any additional data collected can quickly add to the time and money spent conducting your survey.
+Begin defining your purpose by analyzing precisely what data you need to collect to answer the questions which have led you to this point originally. There will likely be additional data you _could_ collect while in the field but take caution against **scope creep**[^1]. Any additional data collected can quickly add to the time and money spent conducting your survey.
 
 If what you're looking to learn can be determined back in the office - don't include it in your field data collection process. For example, why walk around a field to mark the corners and determine the area, when you can do that at a desk with GIS software?
 
@@ -41,7 +41,7 @@ You may require certain conditions regarding weather and seasonality to be met b
 
 _How will I process the information?_
 
-After the recorded observation is made, the data collection processing step begins. This step in the process can vary greatly depending on how the data is being collected and what's required to make the raw data usable. Placing emphasis upon optimal design and an effective protocol step will benefit the processing piece of your workflow. If your protocol dictates that data will be collected with paper and pencil, then you will require a processing task where results are transcribed into a computer spreadsheet or database.
+After you collect a batch of data, it may require processing to feed your eventual analysis or visualization. This step in the process can vary greatly depending on how the data is being collected and what's required to make the raw data usable. Placing emphasis upon optimal design and an effective protocol step will benefit the processing piece of your workflow. If your protocol dictates that data will be collected with paper and pencil, then you will require a processing task where results are transcribed into a computer spreadsheet or database.
 
 Each additional step in the processing portion of data collection can introduce opportunities for error. Whether it's human-error while transferring data from paper to electronic form, or using incorrect parameters in a programmatic conversion - each step introduced also introduces an opportunity for error.
 
@@ -57,4 +57,6 @@ _How will I share the data?_
 
 After your data has been processed and analyzed, you will likely want to distribute or publish the findings. There are various methods to convey your results: tabular, map, charts, graphics, etc. Often, a combination of methods will be helpful to tell your story but it is important to use the right approach in order to achieve maximum effectiveness.
 
-Not all data collection workflows are created equally! Some tools are built upon platforms which allow your data to be instantly distributed in a variety of formats once it's collected. There are also other downstream integrations to consider, such as the ability to publish your data once and then connect it to other 3-party services.
+Not all data collection workflows are created equally! Some tools are built upon platforms which allow your data to be instantly distributed in a variety of formats once it's collected. There are also other downstream integration to consider, such as the ability to publish your data once and then connect it to other 3rd-party services.
+
+[^1]: https://en.wikipedia.org/wiki/Scope_creep
