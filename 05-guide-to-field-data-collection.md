@@ -6,7 +6,7 @@ In our previous chapters we've outlined the basics of data collection, building 
 * [Plotting Course](#plotting-course) - optimize your field crew deployments.
 * [Using Basemaps](#basemaps) - provide context and reference for your team.
 * [Exporting the Data](#exporting) - get your data out in various formats.
-* [Importing into Other Platforms](#importing) - load your data into other programs and services.
+* [Integration with Other Platforms](#integration) - load your data into other programs and services.
 
 ### Identifying Parameters and Range <a id="parameters-and-range"></a>
 
@@ -26,4 +26,11 @@ Other logistics to include in your planning:
 
 ### Exporting the Data <a id="exporting"></a>
 
-### Importing into Other Platforms <a id="importing"></a>
+### Integration with Other Platforms <a id="integration"></a>
+
+After you've built your survey, deployed it, and collected some data in the field - you will likely be ready to visualize, analyze, or process that data. One of the benefits of conducting field data collection with the Fulcrum platform is that your data is entered into a system that's capable of powerful integrations with other services and platforms. Here are a few examples of how you can leverage Fulcrum's extensibility:
+
+* Data Shares
+* Fulcrum API
+* Data Events
+* Zapier
