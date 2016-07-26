@@ -4,6 +4,7 @@
     },
     "styles": {
         "website": "styles/website.css",
-        "ebook": "styles/ebook.css"
+        "ebook": "styles/ebook.css",
+        "print": "styles/print.css"
     }
 }
