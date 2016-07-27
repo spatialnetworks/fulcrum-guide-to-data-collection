@@ -3,8 +3,6 @@
         "readme": "introduction.md"
     },
     "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "print": "styles/print.css"
+        "website": "styles/website.css"
     }
 }

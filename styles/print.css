@@ -1,8 +1,0 @@
-/* CSS for print */
-
-@font-face {
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Lato Regular'), url('../fonts/Lato/Lato-Regular.ttf') format('ttf')
-}
