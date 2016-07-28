@@ -1,6 +1,6 @@
 # Survey Best Practices
 
-Conducting surveys can provide useful answers to specific questions. They don't need to be complex or exhausting to be valuable. If you've ever wondered how to conduct a good survey, these tips will help.
+Conducting surveys can provide useful answers to specific questions. Surveys don't need to be complex or exhausting to provide valuable information and insights. If you've ever wondered how to conduct a good survey, these tips will help.
 
 * [Keep questions relevant and specific](#relevant)
 * [Make questions short](#short)
@@ -18,11 +18,11 @@ Ensure you're asking for pertinent information only. Avoid unnecessary details, 
 
 ### Make questions short <a id="short"></a>
 
-Keep your questions as direct and to the point as possible. The more pointed the question, the less risk there is of a collector mis-reading the question and answering incorrectly. Breaking up a survey into many smaller questions versus fewer longer ones also results in richer, more useful data in the end.
+Keep your questions as direct and to the point as possible. The more specific the question, the less risk there is of a collector mis-reading the question and answering incorrectly. Breaking up a survey into many smaller questions versus a few long ones results in richer, more useful data in the end.
 
 ### Use simple language <a id="simple"></a>
 
-Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion. Sometimes technical jargon may be required, but keep in mind the audience that's being asked to complete the survey. Is the question something they'll understand?
+Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion. Sometimes, technical jargon may be required, but keep in mind the audience that's being asked to complete the survey. Ask yourself: Is this term something my target audience will understand?
 
 ### Ask about one thing at a time <a id="one-thing"></a>
 
@@ -30,7 +30,7 @@ One question, one answer. Ask for one thing at a time, and avoid open-ended ques
 
 ### Avoid biased language & leading questions <a id="biased"></a>
 
-Phrase your questions to be considerate, inclusive, and respectful. Don't frame up or lead the question with unnecessary adjectives and adverbs that may bias a respondee's answer. Remain objective and avoid asking questions that may direct the subject to answer in a particular way.
+Phrase your questions to be considerate, inclusive, and respectful. Don't frame up or lead the question with unnecessary adjectives and adverbs that may bias a respondee's answer. Remain objective and avoid asking questions that may direct or lead the subject to answer in a particular way.
 
 ### Put questions in a positive form <a id="positive"></a>
 
