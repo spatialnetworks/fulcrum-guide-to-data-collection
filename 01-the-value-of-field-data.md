@@ -2,7 +2,7 @@
 
 While most organizations collect some form of data in the field &mdash; whether it's asset inventory, sales meetings, or facility inspections &mdash; many don't make effective use of that data throughout their organizations. **Data captured in the field is some of the most valuable business information at a company's disposal.** It reflects what's happening at the point of transaction or the real picture of what's going on at the job site. 
 
-Historically, it's been a challenge to maintain close ties between a field service operation's ground-level personnel and upper level management. Pen and paper data capture processes using triplicate forms meant that results couldn't be delivered to decision makers without first going through a time-consuming process of transcription, cleanup, aggregation, and report-building. Often by the time the results reach into the higher echelons, it's been months since the information was collected. 
+Historically, it's been a challenge to maintain close ties between a field service operation's ground-level personnel and upper level management. Pen and paper data capture processes using triplicate forms meant that results couldn't be delivered to decision makers without first going through a time-consuming process of transcription, cleanup, aggregation, and report-building. Often, by the time the results reach into the higher echelons, it's been months since the information was collected. 
 
 In all cases, more timely flow of intelligence from the field is an enormous asset to an organization, allowing managers to make better decisions with up-to-the-minute answers to their questions.
 
@@ -27,7 +27,7 @@ The boom in location data available today has expanded the market for geographic
 
 For example, if one product sells more frequently in some locations but not in others,  spatially tagged sales data can inform management to stock more in those locations, in order to maximize the number of products sold and reduce wasted shelf space. For decades data analysis has focused on the "what" and "why" of data, but the spatial component adds more context by including the "where".
 
-For a transportation company, having accurate and timely knowledge of which roads are blocked, the current weather conditions in an area, or the shortest path to a delivery can be the $10,000 question. Mapping routes and alternate courses of travel can save hours of time and gallons of fuel, which add up to substantial cost savings in a short period of time.
+For a transportation company, having accurate and timely knowledge of which roads are blocked, the current weather conditions in an area, or the shortest path to a delivery can be critical. Mapping routes and alternate courses of travel can save hours of time and gallons of fuel, which add up to substantial cost savings in a short period of time.
 
 For those fighting pandemics, knowing where ill people reside, and where they've traveled can help researchers track down the cause or source of an pathogen, saving lives and preventing future outbreaks. In fact, this approach is the same used by epidemiologist John Snow, who identified the pump that was causing [London's Cholera outbreak in 1854](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak), by mapping the location of Cholera victims. By using this location data, he identified the source of the outbreak as a single water pump on Broad Street.
 
