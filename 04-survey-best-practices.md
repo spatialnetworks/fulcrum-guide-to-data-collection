@@ -38,11 +38,11 @@ Phrasing questions negatively can be confusing and may bias your responses. It c
 
 ### Consider the ordering of questions
 
-The order in which you display the fields on your survey form can make the difference between correct and inaccurate data. This is where field testing helps to iterate in your design process and get the structure just right. For ease-of-use, most of the time your questions should flow in the order the collector typically conducts the survey. If they're doing a construction site walkthrough inspection, structure the survey in the order the inspector moves through the site.
+The order in which you display the fields on your survey form can make the difference between correct and inaccurate data. This is where field testing helps you iterate your design process to get the structure just right. For ease-of-use, most of the time your questions should flow in the order the collector typically conducts the survey. If they're doing a construction site walkthrough inspection, structure the survey in the order the inspector moves through the site.
 
 ### Offer a balanced set of responses <a id="balanced"></a>
 
-Give a range of answers that are inclusive and thorough. Avoid errors of omission by including multiple options that cover all possible responses to your question. Using an "Other" option within picklists helps avoid getting overly specific in preset picklist options.
+Give a range of answers that are inclusive and thorough. Avoid errors of omission by including multiple options that cover all possible responses to your question. Using an "Other" option within choice lists helps avoid getting overly specific with options that are predetermined.
 
 ### Add a comments section for field notes <a id="comments"></a>
 
