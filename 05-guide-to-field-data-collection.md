@@ -24,7 +24,7 @@ Other logistics to include in your planning:
 
 ### Using Basemaps <a id="basemaps"></a>
 
-A core component of Fulcrum as a field data collection tool is the included set of basemaps. Fulcrum users are provided map reference information from Google when they are within a (Internet) connected environment. The Streets, Aerial/Satellite, Hybrid, and Terrain basemaps are available to choose from, as well as the ability to choose 'None'.
+A core component of Fulcrum as a field data collection tool is the included set of basemaps. Fulcrum mobile users are provided map reference information from Google when they are within a (Internet) connected environment. The Streets, Aerial/Satellite, Hybrid, and Terrain basemaps are available to choose from, as well as the ability to choose 'None'.
 
 There are situations where you will want to collect data in a disconnected environment and you require map reference information to complete your task. Not only does Fulcrum have the functionality to collect data offline but it also allows you to use interactive offline maps. There are examples on the website for using both the [vector](http://www.fulcrumapp.com/guides/mapping-and-gis/offline-map-creation-tilemill/) and [raster](http://www.fulcrumapp.com/blog/working-with-geotiffs-for-offline-maps/) GIS data types in your offline map creation.
 
