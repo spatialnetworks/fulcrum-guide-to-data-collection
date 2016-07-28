@@ -24,20 +24,14 @@ A line which delineates an area.
 A data type or variable with two possible values: true or false.
 ## Boundary Survey
 An evaluation by measurements, conducted by a professionally licensed surveyor which establishes the corners of a legal parcel of land.
-## Bounding Box
-
 ## CAD
 Computer-aided design - CAD, utilizes computer software to facilitate drawing, analyzing, and disseminating technical designs. It is typically used in architectural, engineering, and machining workflows.
 ## Calculation Field
 Calculation fields can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs). ([Reference](http://www.fulcrumapp.com/help/calculation-fields/))
 ## Calibration
 Readings and adjustments compared against a standard to ensure accuracy, typically with instruments or equipment.
-## Cardinality
-
 ## Cartography
 The science of map creation.
-## Cartesian Coordinate System
-
 ## Cell
 With spreadsheet or raster data, cells are the intersections of rows and columns.
 ## Cartographic Generalization
@@ -46,11 +40,7 @@ The process of reducing the detail of the features being represented within a vi
 The center point of geometric object such as a line or polygon.
 ## Character
 A letter or symbol.
-## Class
-
 ## Cluster Analysis
-
-## Clustering
 ## Compass
 A device which indicates the direction of magnetic north and references the bearing to the other cardinal directions.
 ## Compression
@@ -82,15 +72,9 @@ A unit of measurement of angles.
 ## Density
 The distribution or quantity of something per unit of area.
 ## Dimension
-
 A physical measurement of a property of an object.
-
-## Distortion
-
 ## Distribution
 The spatial arrangement of an object or species.
-## Economic Geography
-
 ## Edge
 The outside limit of an object, area, or surface
 ## Elevation
@@ -101,12 +85,8 @@ The box drawn around one or many features, also known as a Bounding Box.
 The line of latitude that falls equidistant between the north and south poles, with the measurement of 0°.
 ## Error
 A mistake, inaccuracy, or miscalculation.
-## Event
-
 ## Extrapolation
-
 The act of projecting a conclusion based upon existing data and current trends.
-
 ## Export
 In computing, an output of data in a particular format type.
 ## Feature
@@ -128,12 +108,11 @@ Form Fields have different available types, including:
 * Barcode
 * Date & Time
 * Sections
+
 ## Filter
 The process of including only a desired subset from the original dataset.
 ## Geocoding
 The process of deriving coordinates from a physical address.
-## Geocomputation
-
 ## Geodatabase
 A database with the specialized ability to create, handle, and store geographic data.
 ## Geodesy
