@@ -29,16 +29,3 @@ A core component of Fulcrum as a field data collection tool is the included set 
 There are situations where you will want to collect data in a disconnected environment and you require map reference information to complete your task. Not only does Fulcrum have the functionality to collect data offline but it also allows you to use interactive offline maps. There are examples on the website for using both the [vector](http://www.fulcrumapp.com/guides/mapping-and-gis/offline-map-creation-tilemill/) and [raster](http://www.fulcrumapp.com/blog/working-with-geotiffs-for-offline-maps/) GIS data types in your offline map creation.
 
 Another basemap layer type which is available to the mobile user is [Tile XYZ](http://www.fulcrumapp.com/help/adding-tilexyz-layers/). If you seek access to layers hosted in a Tile XYZ tiling scheme, they can be added as a reference layer within Fulcrum.
-
-### Exporting the Data <a id="exporting"></a>
-
-Not only does Fulcrum make it easy to import and collect data but it also has robust options for exporting your data. All Fulcrum plans support exporting data in these 9 [different formats](http://www.fulcrumapp.com/help/data-formats-for-export/): CSV, Microsoft Excel, KML (Google Earth), Esri Shapefile, GeoJSON, Esri File Geodatabase, SQLite, SpatiaLite, PostGIS. Along with these formats are various [export options](http://www.fulcrumapp.com/help/export-options/) to control exactly what you need to export, including: filtering by geographic area or the date the record was created or updated and whether to export multiple apps and/or projects’ data at once.
-
-### Integration with Other Platforms <a id="integration"></a>
-
-After you've built your survey, deployed it, and collected some data in the field - you will likely be ready to visualize, analyze, or process that data. One of the benefits of conducting field data collection with the Fulcrum platform is that your data is entered into a system that's capable of powerful integrations with other services and platforms. Here are a few examples of how you can leverage Fulcrum's extensibility:
-
-* Data Shares
-* Fulcrum API
-* Data Events
-* Zapier
