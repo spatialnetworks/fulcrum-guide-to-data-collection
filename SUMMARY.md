@@ -9,4 +9,5 @@
 * [Case Study: Premier Utility - Large Scale Data Collection](case-study-3.md)
 * [Case Study: Century Engineering - Project Management](case-study-2.md)
 * [Glossary](GLOSSARY.md)
+* Post-collection Considerations
 
