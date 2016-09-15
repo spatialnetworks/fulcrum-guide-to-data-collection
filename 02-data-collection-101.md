@@ -27,6 +27,8 @@ _Framing the question: What should I collect?_
 
 How you set up your data collection survey will be critical to its success. The way you design how observations are recorded will have a tremendous impact on the way the data is collected and how its later processed and analyzed. An effective survey is one that is specific and focused. You don't want to go on a tangent away from your original purpose. "Nice to have" information can quickly take away from the precious time it takes for your team to conduct the survey; it should be scrutinized as to whether it really needs to be captured.
 
+![](http://www.fulcrumapp.com/assets/img/blog/record-linking.png)
+
 For your questions, provide appropriate answer choices to pick from. This includes framing your questions fairly and being inclusive while also keeping them brief and direct. Consider how the data will be processed and analyzed as you're designing your survey. For example: do you want to allow a question to be answered with an open-ended response, or provide a range of structured answers to choose from instead?
 
 Other things to consider surrounding your survey design include whether you will need supporting reference information while collecting the data. If a field user needs to confirm that they're within a certain area while collecting the observation,  how will they be able to confirm that? Design and logistics go hand-in-hand. For example, will you be working in an area requiring access to cellular connectivity? Detailed tips and suggestions can be found in a later section on [**Survey Best Practices**](survey-best-practices.md).
