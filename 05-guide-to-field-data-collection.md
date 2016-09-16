@@ -29,3 +29,5 @@ A core component of Fulcrum as a field data collection tool is the included set 
 There are situations where you will want to collect data in a disconnected environment and you require map reference information to complete your task. Not only does Fulcrum have the functionality to collect data offline but it also allows you to use interactive offline maps. There are examples on the website for using both the [vector](http://www.fulcrumapp.com/guides/mapping-and-gis/offline-map-creation-tilemill/) and [raster](http://www.fulcrumapp.com/blog/working-with-geotiffs-for-offline-maps/) GIS data types in your offline map creation.
 
 Another basemap layer type which is available to the mobile user is [Tile XYZ](http://www.fulcrumapp.com/help/adding-tilexyz-layers/). If you seek access to layers hosted in a Tile XYZ tiling scheme, they can be added as a reference layer within Fulcrum.
+
+![](/assets/basemap-chart.png)
