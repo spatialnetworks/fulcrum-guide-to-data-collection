@@ -4,6 +4,8 @@ While most organizations collect some form of data in the field — whether it's
 
 Historically, it's been a challenge to maintain close ties between a field service operation's ground-level personnel and upper level management. Pen and paper data capture processes using triplicate forms meant that results couldn't be delivered to decision makers without first going through a time-consuming process of transcription, cleanup, aggregation, and report-building. Often, by the time the results reach into the higher echelons, it's been months since the information was collected.
 
+![](/assets/field-crew.jpg)[^1]
+
 In all cases, more timely flow of intelligence from the field is an enormous asset to an organization, allowing managers to make better decisions with up-to-the-minute answers to their questions.
 
 Field data collection is one of the best ways to gain insights into the facts of an operation:
@@ -35,3 +37,4 @@ For those fighting pandemics, knowing where ill people reside, and where they've
 
 The collection and analysis of field data can help businesses, governments, and organizations make better use of resources. By better understanding the world around them, decision makers can make better choices. The real value of spatial information isn't just in the knowledge of the world around you, it's what you can do with that knowledge that makes it so valuable and powerful.
 
+[^1]: Wildlife biologists, resized https://www.flickr.com/photos/usgs_uas_project_office/19472017876/
