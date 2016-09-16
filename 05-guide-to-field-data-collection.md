@@ -24,6 +24,8 @@ Other logistics to include in your planning:
 * What is your plan in the case of an emergency or injury?
 * (If traveling by vehicle) Is your vehicle properly maintained, capable, and with adequate fuel?
 
+**[Add Image of Field Maps Here]**
+
 ### Using Basemaps <a id="basemaps"></a>
 
 A core component of Fulcrum as a field data collection tool is the included set of basemaps. Fulcrum mobile users are provided map reference information from Google when they are within a (Internet) connected environment. The Streets, Aerial/Satellite, Hybrid, and Terrain basemaps are available to choose from, as well as the ability to choose 'None'.
