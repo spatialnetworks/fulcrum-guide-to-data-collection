@@ -47,3 +47,7 @@ Give a range of answers that are inclusive and thorough. Avoid errors of omissio
 ### Add a comments section for field notes <a id="comments"></a>
 
 Sometimes in the field, you might find important notes, data, or additional information you may want to relay to the analysts. An optional comments section at the bottom of your survey allows surveyors to add important information that otherwise might have been overlooked. It functions as a good catch-all for anything your survey model might not have accommodated for.
+
+![](https://farm9.staticflickr.com/8680/16290334145_12bf25377d_k_d.jpg) [^1]
+
+[^1]: Surveying birds https://www.flickr.com/photos/alaskanps/16290334145/

@@ -8,6 +8,8 @@ In our previous chapters, we've outlined the basics of data collection, building
 * [Exporting the Data](#exporting) - Get your data out in various formats
 * [Integration with Other Platforms](#integration) - Load your data into other programs and services
 
+![](https://farm9.staticflickr.com/8651/15760316759_1682983c1d_b_d.jpg)[^1]
+
 ### Identifying Parameters and Range <a id="parameters-and-range"></a>
 
 As outlined in [Data Collection 101](https://fulcrumapp.gitbooks.io/fulcrum-guide-to-data-collection/content/02-data-collection-101.html#Survey-Design), your survey design will dictate the details and scope of what you will collect. It is important to conform to the standards set forth in your survey design to ensure consistency of the data collected by you and others on your team. Going outside the identified parameters and range can skew your data and potentially compromise the results of your final analysis.
@@ -31,3 +33,5 @@ There are situations where you will want to collect data in a disconnected envir
 Another basemap layer type which is available to the mobile user is [Tile XYZ](http://www.fulcrumapp.com/help/adding-tilexyz-layers/). If you seek access to layers hosted in a Tile XYZ tiling scheme, they can be added as a reference layer within Fulcrum.
 
 ![](/assets/basemap-chart.png)
+
+[^1]: Bridge recon https://www.flickr.com/photos/europedistrict/15760316759/
