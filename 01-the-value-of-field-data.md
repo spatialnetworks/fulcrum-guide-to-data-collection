@@ -33,6 +33,8 @@ For example, if one product sells more frequently in some locations but not in o
 
 For a transportation company, having accurate and timely knowledge of which roads are blocked, the current weather conditions in an area, or the shortest path to a delivery can be critical. Mapping routes and alternate courses of travel can save hours of time and gallons of fuel, which add up to substantial cost savings in a short period of time.
 
+[Add CDC/ Epidemiology Image Here]
+
 For those fighting pandemics, knowing where ill people reside, and where they've traveled can help researchers track down the cause or source of an pathogen, saving lives and preventing future outbreaks. In fact, this approach is the same used by epidemiologist John Snow, who identified the pump that was causing [London's Cholera outbreak in 1854](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak), by mapping the location of Cholera victims. By using this location data, he identified the source of the outbreak as a single water pump on Broad Street.
 
 The collection and analysis of field data can help businesses, governments, and organizations make better use of resources. By better understanding the world around them, decision makers can make better choices. The real value of spatial information isn't just in the knowledge of the world around you, it's what you can do with that knowledge that makes it so valuable and powerful.
