@@ -15,7 +15,7 @@ _What do I want to learn?_
 
 Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground surveys can be expensive, both in terms of time _and_ money. You should clearly define your goals and objectives before conducting your data collection activities.
 
-![](https://c4.staticflickr.com/5/4137/4786296307_66d12b8c0a_b.jpg)[^1]
+![](https://farm4.staticflickr.com/3739/10723081213_5db79638d0_k_d.jpg)[^1]
 
 Begin by defining your purpose by analyzing precisely what data you need to collect to answer your question. There will likely be additional data you _could_ collect while in the field but take caution against **scope creep**[^2], or adding new work not contained in the original project. Any additional data collected can quickly costs and time to conducting and completing your survey.
 
@@ -67,5 +67,5 @@ After your data has been processed and analyzed, you will likely want to distrib
 
 Not all data collection workflows are created equally! Some tools are built upon platforms which allow your data to be instantly distributed in a variety of formats once it's collected. There are also other downstream integration to consider, such as the ability to publish your data once and then connect it to other 3rd-party services. Learn more about some of the integrations you can do with Fulcrum, on our [**Integrations page**](http://www.fulcrumapp.com/tour/extend/)
 
-[^1]: ICESCAPE Mission (CC BY-NC-ND 2.0) https://www.flickr.com/photos/nasahqphoto/4786296307/
+[^1]: Water sampling https://www.flickr.com/photos/iaea_imagebank/10723081213/
 [^2]: https://en.wikipedia.org/wiki/Scope_creep
