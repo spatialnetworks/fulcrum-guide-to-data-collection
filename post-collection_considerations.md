@@ -15,4 +15,4 @@ After you've built your survey, deployed it, and collected some data in the fiel
 * Data Events
 * Zapier
 
-[^1]: Portland GPS Logs - 2008-2012, changes made https://www.flickr.com/photos/aaronpk/6958109913/
+[^1]: Portland GPS Logs - 2008-2012 (_cropped_) https://www.flickr.com/photos/aaronpk/6958109913/
