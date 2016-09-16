@@ -24,7 +24,7 @@ Other logistics to include in your planning:
 * What is your plan in the case of an emergency or injury?
 * (If traveling by vehicle) Is your vehicle properly maintained, capable, and with adequate fuel?
 
-**[Add Image of Field Maps Here]**
+![](https://farm7.staticflickr.com/6066/6073564952_4fea6b75d3_b_d.jpg)[^2]
 
 ### Using Basemaps <a id="basemaps"></a>
 
@@ -37,3 +37,4 @@ Another basemap layer type which is available to the mobile user is [Tile XYZ](h
 ![](/assets/basemap-chart.png)
 
 [^1]: Bridge recon https://www.flickr.com/photos/europedistrict/15760316759/
+[^2]: Field map https://www.flickr.com/photos/yancy9a/6073564952/
