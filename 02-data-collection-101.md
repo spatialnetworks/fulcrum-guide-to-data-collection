@@ -40,8 +40,8 @@ _How will I collect it?_
 Your protocol should include training the personnel who will be collecting your data. The level of understanding and competency your field staff possess will be reflected in the quality of your data. It will be beneficial to have a long-term project timeline and schedule of daily activities.
 
 Identify what personnel will be on your data collection team and determine if they will need to work together. Consider the logistics to safely and efficiently perform your survey. For example, your project may warrant a team of two - one driver and one person collecting data.
-**
-[Add Inclement Weather Image Here]**
+
+![](https://farm7.staticflickr.com/6064/6098106484_c28ca2f92c_b_d.jpg)[^3]
 
 You may require certain conditions regarding weather and seasonality to be met before you _can_ or when you _cannot_ conduct your survey. As you define your procedure you will need to determine if you'll be collecting this data while driving in vehicles, on-foot, or perhaps remotely. Establish a schedule if there will be any revisit frequency to your data collection.
 
@@ -71,3 +71,4 @@ Not all data collection workflows are created equally! Some tools are built upon
 
 [^1]: Water sampling https://www.flickr.com/photos/iaea_imagebank/10723081213/
 [^2]: https://en.wikipedia.org/wiki/Scope_creep
+[^3]: Irish Summer https://www.flickr.com/photos/23629083@N03/6098106484/
