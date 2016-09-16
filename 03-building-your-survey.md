@@ -8,6 +8,8 @@ The best approach to building a survey is to work backwards. Identify what you w
 * [How should I lay out my survey?](#layout)
 * [Handling Changes](#changes)
 
+![](http://www.fulcrumapp.com/assets/img/blog/blog-design-update.jpg)
+
 ### What do I want to learn? <a id="learn"></a>
 
 The first step is to identify the information you need to have in the end for success &mdash; for your data to answer all the right questions. By starting at the end, you can visualize how you want to present your information. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
