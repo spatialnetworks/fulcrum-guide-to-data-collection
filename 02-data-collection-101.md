@@ -41,6 +41,8 @@ Your protocol should include training the personnel who will be collecting your 
 
 Identify what personnel will be on your data collection team and determine if they will need to work together. Consider the logistics to safely and efficiently perform your survey. For example, your project may warrant a team of two - one driver and one person collecting data.
 
+[Add Inclement Weather Image Here]
+
 You may require certain conditions regarding weather and seasonality to be met before you _can_ or when you _cannot_ conduct your survey. As you define your procedure you will need to determine if you'll be collecting this data while driving in vehicles, on-foot, or perhaps remotely. Establish a schedule if there will be any revisit frequency to your data collection.
 
 ### Processing <a id="Processing"></a>
