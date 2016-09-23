@@ -5,5 +5,9 @@
     "styles": {
         "website": "styles/website.css",
         "pdf": "styles/pdf.css"
+    },
+    "pdf": {
+      "fontSize": 18,
+      "fontFamily": "Lato"
     }
 }

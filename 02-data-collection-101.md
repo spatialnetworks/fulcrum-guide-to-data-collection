@@ -13,7 +13,7 @@ Every **data collection** process is composed of several distinct steps. From th
 
 _What do I want to learn?_
 
-Having a clear and defined **purpose** for your field data collection is imperative. On-the-ground surveys can be expensive, both in terms of time _and_ money. You should clearly define your goals and objectives before conducting your data collection activities.
+Having a clear and defined **purpose** for your field data collection project is imperative. On-the-ground surveys can be expensive, both in terms of time _and_ money. You should clearly define your goals and objectives before conducting your data collection activities.
 
 ![](https://farm4.staticflickr.com/3739/10723081213_5db79638d0_k_d.jpg)[^1]
 
