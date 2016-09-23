@@ -1,9 +1,9 @@
 # Guide to Field Data Collection
 
-In our previous chapters, we've outlined the basics of data collection, building your survey, and some best practices. This chapter contains our recommendations for gathering data once you're out in the field.
+In our previous chapters, we've outlined the basics of data collection projects, building your survey, and some best practices. This chapter covers our recommendations for gathering data once you're out in the field.
 
-* [Identifying Parameters and Range](#parameters-and-range) - Define the scope of your data collection
-* [Plotting Course](#plotting-course) - Optimize your field crew deployments
+* [Identifying Parameters and Range](#parameters-and-range) - Defining the scope of your fieldwork
+* [Plotting Course](#plotting-course) - Optimizing management and work assignment
 * [Using Basemaps](#basemaps) - Provide context and reference for your team
 * [Exporting the Data](#exporting) - Get your data out in various formats
 * [Integration with Other Platforms](#integration) - Load your data into other programs and services
