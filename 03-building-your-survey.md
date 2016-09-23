@@ -2,15 +2,15 @@
 
 The best approach to building a survey is to work backwards. Identify what you want to learn and how you want to measure results before you begin designing. Much of effective survey design is about not just _what_ to collect, but also _how_ it's collected. Thinking about the end goals keeps you focused on results first, and process second. Starting at the end lets you create a process that matches your desired end state. Once you've identified what "success" looks like, you can analyze the details of what fields you need, what order, and more.
 
-* [What do I want to learn?](#learn)
+* [What do I want to know?](#know)
 * [What metrics should I use?](#metrics)
 * [What data should I collect?](#collect)
 * [How should I lay out my survey?](#layout)
-* [Handling Changes](#changes)
+* [Handling changes](#changes)
 
 ![](http://www.fulcrumapp.com/assets/img/blog/blog-design-update.jpg)
 
-### What do I want to learn? <a id="learn"></a>
+### What do I want to know? <a id="know"></a>
 
 The first step is to identify the information you need to have in the end for success &mdash; for your data to answer all the right questions. By starting at the end, you can visualize how you want to present your information. Create a hypothesis that is testable and measurable, and from that determine what data you'd need to collect.
 

@@ -14,19 +14,19 @@ Conducting surveys can provide useful answers to specific questions. Surveys don
 
 ### Keep questions relevant and specific <a id="relevant"></a>
 
-Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation.
+Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation. Staying focused on data critical to your objectives also keeps the process working smoothly without unnecessary delay. The "nice to have" information is great to collect if you can, but you don't want the collection of optional data to detract from your primary data points. 
 
 ### Make questions short <a id="short"></a>
 
-Keep your questions as direct and to the point as possible. The more specific the question, the less risk there is of a collector mis-reading the question and answering incorrectly. Breaking up a survey into many smaller questions versus a few long ones results in richer, more useful data in the end.
+Keep your questions as direct and to-the-point as possible. The more specific the question, the less risk there is of a collector misreading the question and answering incorrectly. Breaking up a survey into many smaller questions versus a few long ones results in richer, more useful data in the end. An added benefit of short, direct questions is the data capture process can flow with fewer delays and require less thinking from element to element.
 
 ### Use simple language <a id="simple"></a>
 
-Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion. Sometimes, technical jargon may be required, but keep in mind the audience that's being asked to complete the survey. Ask yourself: Is this term something my target audience will understand?
+Be clear and obvious about what you're asking. Avoid flowery language, terminology, and euphemisms, and ask questions in an unbiased, objective fashion. Sometimes, technical jargon may be required, but keep in mind the audience that's being asked to complete the survey. Ask yourself: Is this term something my target audience will understand? The best data collection surveys can often be deployed and used with minimal training of collectors in the specifics.
 
 ### Ask about one thing at a time <a id="one-thing"></a>
 
-One question, one answer. Ask for one thing at a time, and avoid open-ended questions without a clear answer.
+One question, one answer. Ask for one thing at a time, and avoid open-ended questions without a clear answer. Breaking up a survey into more small questions rather than few large ones provides the added benefit of being able to slice up the data in myriad different ways once you've finished your project. Analysts can get more granular in querying the data for answers.
 
 ### Avoid biased language & leading questions <a id="biased"></a>
 

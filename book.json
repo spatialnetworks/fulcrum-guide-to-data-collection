@@ -7,6 +7,6 @@
         "pdf": "styles/pdf.css"
     },
     "pdf": {
-      "fontSize": 16
+      "fontSize": 14
     }
 }
