@@ -7,7 +7,7 @@
         "pdf": "styles/pdf.css"
     },
     "pdf": {
-      "fontSize": 18,
-      "fontFamily": "Lato"
+      "fontSize": 16,
+      "fontFamily": "Open Sans"
     }
 }
