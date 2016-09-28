@@ -7,6 +7,6 @@
     },
     "pdf": {
       "paperSize": "letter",
-      "fontFamily": "noto-sans"
+      "fontFamily": "DejaVu Sans"
     }
 }
