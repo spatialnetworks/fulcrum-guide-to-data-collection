@@ -3,8 +3,7 @@
         "readme": "introduction.md"
     },
     "styles": {
-        "website": "styles/website.css",
-        "pdf": "styles/pdf.css"
+        "website": "styles/website.css"
     },
     "pdf": {
       "paperSize": "letter"
