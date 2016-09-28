@@ -7,6 +7,6 @@
     },
     "pdf": {
       "paperSize": "letter",
-      "fontFamily": "Verana Sans Regular"
+      "fontFamily": "DejaVu Sans"
     }
 }
