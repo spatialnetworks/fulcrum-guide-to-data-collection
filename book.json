@@ -6,6 +6,7 @@
         "website": "styles/website.css"
     },
     "pdf": {
-      "fontFamily": "Lato"
+      "fontFamily": "Open Sans",
+      "paperSize": "letter"
     }
 }
