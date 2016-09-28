@@ -6,6 +6,7 @@
         "website": "styles/website.css"
     },
     "pdf": {
-      "paperSize": "letter"
+      "paperSize": "letter",
+      "fontFamily": "Lato-Regular"
     }
 }
