@@ -3,10 +3,9 @@
         "readme": "introduction.md"
     },
     "styles": {
-        "website": "styles/website.css",
-        "pdf": "styles/pdf.css"
+        "website": "styles/website.css"
     },
     "pdf": {
-      "fontSize": 14
+      "fontFamily": "Lato"
     }
 }
