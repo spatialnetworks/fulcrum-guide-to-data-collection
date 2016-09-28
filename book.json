@@ -7,6 +7,6 @@
     },
     "pdf": {
       "paperSize": "letter",
-      "fontFamily": "Roboto"
+      "fontFamily": "Noto Sans"
     }
 }
