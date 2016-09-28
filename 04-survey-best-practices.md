@@ -11,6 +11,8 @@ Conducting surveys can provide useful answers to specific questions. Surveys don
 * [Offer a balanced set of responses](#balanced)
 * [Adding a comments section for field notes](#comments)
 
+![](/assets/best-practices-checklist.jpg)
+
 ### Keep questions relevant and specific <a id="relevant"></a>
 
 Ensure you're asking for pertinent information only. Avoid unnecessary details, feelings, and opinions unless they are important to your investigation. Staying focused on data critical to your objectives also keeps the process working smoothly without unnecessary delay. The "nice to have" information is great to collect if you can, but you don't want the collection of optional data to detract from your primary data points. 
