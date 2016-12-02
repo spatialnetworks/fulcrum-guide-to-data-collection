@@ -8,7 +8,6 @@ Welcome and thank you for downloading Fulcrum's Ultimate Guide to Data Collectio
 - Best practices for designing your survey
 - Tips for field data collection
 - A glossary of common data collection, mapping, and analysis terms
-- Some great offers from Fulcrum and our partners
 
 **Who Is This Guide For?**
 
