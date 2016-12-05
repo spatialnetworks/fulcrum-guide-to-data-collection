@@ -28,8 +28,6 @@ If your data supports your hypothesis, great! If it doesn't, it's never advisabl
 
 Next you should break down your desired result into its individual components. Perhaps to answer your questions, your survey needs 25 different data fields. You then need to organize them in a fashion that makes it efficient for a field collector to fill out the survey. People often make 2 major mistakes in this process: They either try to collect everything they can, or as little as they can, and both of these approaches can cause problems.
 
-![](/assets/door-to-door-canvassing.jpg)[^1]
-
 Collecting too little data can make your survey lack enough information for meaningful answers. Collecting too much data can lead to people terminating a survey midway through. Both have their advantages, of course. A short and sweet survey means rapid data capture, but light on the depth. An incredibly detailed survey maximizes the time in the field with a lot of content in the end, but takes longer to perform. Get a feel for the time it takes to complete the survey by conducting some mock collection. The goal should be to strike the right balance of data depth and efficiency.
 
 Try to isolate the fewest number of key data needed for your project, and add additional fields or a comment section as a catchall for general use. It's a good idea to have general "comments" fields for collectors to leave notes or other insightful info from the field.
@@ -51,5 +49,3 @@ The way you format and layout your survey can help save time and reduce the work
 After you initially deploy a survey to a collection team, there will usually be modifications to make after it's in the field. In the days of pen and paper surveys, this was naturally a hassle to deal with, requiring editing Microsoft Word or PDF templates and re-printing new batches of forms to distribute. As a result, organizations using a method like this are tempted to overload their survey with every possible thing (see the chapter on best practices). Because of the inefficiency of making changes to paper surveys, many positive survey structure changes would never be made.
 
 With digital tools like Fulcrum, updating survey template structures is more realistic. Given that the survey on a collector's device is digital, syncing with the server allows the user to receive the latest version automatically, without any need for memos or meetings to bring a team up to speed.
-
-[^1]: Peter Macdiarmid/Getty Images
