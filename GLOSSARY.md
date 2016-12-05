@@ -37,7 +37,7 @@ With spreadsheet or raster data, cells are the intersections of rows and columns
 ## Cartographic Generalization
 The process of reducing the detail of the features being represented within a visualization.
 ## Centroid
-The center point of geometric object such as a line or polygon.
+The center point of a geometric object such as a line or polygon.
 ## Character
 A letter or symbol.
 ## Cluster Analysis
