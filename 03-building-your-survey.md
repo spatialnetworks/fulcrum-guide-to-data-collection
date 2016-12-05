@@ -22,7 +22,7 @@ Understanding what you want to learn is crucial to determine what you need to co
 
 The next step is to identify metrics that will guide your decision making. Identifying these before conducting your survey will ensure objectivity in your survey by avoiding bias through after-the-fact analysis. The point in conducting a survey is to gain real-world knowledge, not to prove a specific point. Your data should be factual information that you can then use to derive answers. Identifying these key indicators will feed into the specific fields to capture on your survey. 
 
-If your data supports your hypothesis, great! If it doesn't, its never advisable or ethical to bend the data in a way to support your position. Also, avoid framing questions in a way that leads people to a desired conclusion, in order to avoid bias in your data.
+If your data supports your hypothesis, great! If it doesn't, it's never advisable or ethical to bend the data in a way to support your position. Also, avoid framing questions in a way that leads people to a desired conclusion, in order to avoid bias in your data.
 
 ### What data should I collect? <a id="collect"></a>
 
