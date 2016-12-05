@@ -38,7 +38,7 @@ Try to isolate the fewest number of key data needed for your project, and add ad
 
 The way you format and layout your survey can help save time and reduce the work needed to collect data in the field. We'll focus on 4 major ways to improve the collection speed of your survey: **Chunking, Labeling, Skip Logic** and **Calculation Fields**.
 
-**Chunking** is the grouping of similar questions in a cluster, to help organize your survey and allow it to flow easier. Grouping related questions together into sections helps collectors follow the process. If you have 5 questions on history, and 5 questions on politics in your survey, grouping them into 2 clusters make logical sense. It simplifies the flow for your field collection teams.
+**Chunking** is the grouping of similar questions together, to help organize your survey and allow it to flow easier. Grouping related questions together into sections helps collectors follow the process. If you have 5 questions on history, and 5 questions on politics in your survey, grouping them into 2 clusters make logical sense. It simplifies the flow for your field collection teams.
 
 **Labeling** is the method of adding a label to chunks of questions you've already grouped together. This helps the surveyor understand the purpose behind the various of blocks of questions they are collecting, and gives them an idea as to how far along they are in the survey. When a survey is well labeled, a surveyor can parse a long question set easily, and find a specific question without having to read each question and entry to find a piece of information later on. Learn how to add a label in your Fulcrum app by visiting the [help page on Label Fields](http://www.fulcrumapp.com/help/label-fields/)
 
