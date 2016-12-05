@@ -67,7 +67,7 @@ _How will I share the data?_
 
 After your data has been processed and analyzed, you will likely want to distribute or publish the findings. There are various methods to convey your results: tabular, map, charts, graphics, etc. Often, a combination of methods will be helpful to tell your story but it is important to use the right approach in order to achieve maximum effectiveness.
 
-Not all data collection workflows are created equally! Some tools are built upon platforms which allow your data to be instantly distributed in a variety of formats once it's collected. There are also other downstream integration to consider, such as the ability to publish your data once and then connect it to other 3rd-party services. Learn more about some of the integrations you can do with Fulcrum, on our [**Integrations page**](http://www.fulcrumapp.com/tour/extend/)
+Not all data collection workflows are created equally! Some tools are built upon platforms which allow your data to be instantly distributed in a variety of formats once it's collected. There are also other downstream integrations to consider, such as the ability to publish your data once and then connect it to other 3rd-party services. Learn more about some of the integrations you can do with Fulcrum, on our [**Integrations page**](http://www.fulcrumapp.com/tour/extend/)
 
 [^1]: Water sampling https://www.flickr.com/photos/iaea_imagebank/10723081213/
 [^2]: https://en.wikipedia.org/wiki/Scope_creep
