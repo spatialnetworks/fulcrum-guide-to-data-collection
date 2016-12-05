@@ -37,7 +37,7 @@ Other things to consider surrounding your survey design include whether you will
 
 _How will I collect it?_
 
-Your protocol should include training the personnel who will be collecting your data. The level of understanding and competency your field staff possess will be reflected in the quality of your data. It will be beneficial to have a long-term project timeline and schedule of daily activities.
+Your protocol should include training the personnel who will be collecting your data. The level of understanding and competency your field staff possess will be reflected in the quality of your data. It will also be beneficial to have a long-term project timeline and schedule of daily activities.
 
 Identify what personnel will be on your data collection team and determine if they will need to work together. Consider the logistics to safely and efficiently perform your survey. For example, your project may warrant a team of two - one driver and one person collecting data.
 
