@@ -43,7 +43,7 @@ Identify what personnel will be on your data collection team and determine if th
 
 ![](https://farm7.staticflickr.com/6064/6098106484_c28ca2f92c_b_d.jpg)[^3]
 
-You may require certain conditions regarding weather and seasonality to be met before you _can_ or when you _cannot_ conduct your survey. As you define your procedure you will need to determine if you'll be collecting this data while driving in vehicles, on-foot, or perhaps remotely. Establish a schedule if there will be any revisit frequency to your data collection.
+You may require certain conditions regarding weather and seasonality to be met before you _can_ or when you _cannot_ conduct your survey. As you define your procedure you will need to determine if you'll be collecting the data while driving in vehicles, on-foot, or perhaps even remotely. Establish a schedule if there will be any revisit frequency to your data collection.
 
 ### Processing <a id="Processing"></a>
 
