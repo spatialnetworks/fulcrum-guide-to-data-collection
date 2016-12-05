@@ -19,7 +19,7 @@ Having a clear and defined **purpose** for your field data collection project is
 
 Begin by defining your purpose by analyzing precisely what data you need to collect to answer your question. There will likely be additional data you _could_ collect while in the field but take caution against **scope creep**[^2], or adding new work not contained in the original project. Any additional data collected can quickly costs and time to conducting and completing your survey.
 
-If what you're looking to learn can be determined back in the office, don't include it in your field data collection process. For example, why collect information that can be pre-loaded into your survey for collectors to _validate_, rather than collect from scratch?
+If what you're looking to learn can be determined back in the office, don't include it in your field data collection process. For example, why collect information that can be pre-loaded into your survey for collectors to _validate_, rather than collecting it from scratch?
 
 ### Survey Design <a id="Survey-Design"></a>
 
