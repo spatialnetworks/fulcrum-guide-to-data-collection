@@ -36,7 +36,7 @@ Try to isolate the fewest number of key data needed for your project, and add ad
 
 ### How should I lay out my survey? <a id="layout"></a>
 
-The way you format and layout your survey can help save time and reduce the work needed to collect data in the field. We'll focus on 4 major ways to improve the collection speed of your survey: **Chunking, Labeling, Skip Logic** and **Calculation Fields**.
+The way you format and layout your survey can help save time and reduce the work needed to collect data in the field. We'll focus on 4 major ways to improve the collection speed of your survey: **Chunking, Labeling, Skip Logic,** and **Calculation Fields**.
 
 **Chunking** is the grouping of similar questions together, to help organize your survey and allow it to flow easier. Grouping related questions together into sections helps collectors follow the process. If you have 5 questions on history, and 5 questions on politics in your survey, grouping them into 2 clusters make logical sense. It simplifies the flow for your field collection teams.
 
