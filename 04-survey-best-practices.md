@@ -43,7 +43,7 @@ The order in which you display the fields on your survey form can make the diffe
 
 ### Offer a balanced set of responses <a id="balanced"></a>
 
-Give a range of answers that are inclusive and thorough. Avoid errors of omission by including multiple options that cover all possible responses to your question. Using an "Other" option within choice lists helps avoid getting overly specific with options that are predetermined.
+Give a range of answers that are inclusive and thorough. Avoid errors of omission by including multiple options that cover all possible responses to the question. Using an "Other" option within choice lists helps avoid getting overly specific with options that are predetermined.
 
 ### Add a comments section for field notes <a id="comments"></a>
 
