@@ -76,7 +76,7 @@ A physical measurement of a property of an object.
 ## Distribution
 The spatial arrangement of an object or species.
 ## Edge
-The outside limit of an object, area, or surface
+The outside limit of an object, area, or surface.
 ## Elevation
 The height above a given point.
 ## Envelope
