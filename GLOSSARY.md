@@ -207,7 +207,7 @@ Numbers or values arranged in rows and columns.
 ## Theodolite
 A surveying instrument for measuring horizontal and vertical angles.
 ## Tile
-Small and numerous images of map data that together combine a larger map - typically viewed on the web.
+Small and numerous images of map data that together combine to form a larger map - typically viewed on the web.
 ## Tile Server
 A collection of databases, libraries, and software which work together to return the correct map tiles to the requesting client.
 ## URL
