@@ -31,7 +31,7 @@ How you set up your data collection survey will be critical to its success. The 
 
 For your questions, provide appropriate answer choices to pick from. This includes framing your questions fairly and being inclusive while also keeping them brief and direct. Consider how the data will be processed and analyzed as you're designing your survey. For example: do you want to allow a question to be answered with an open-ended response, or provide a range of structured answers to choose from instead?
 
-Other things to consider surrounding your survey design include whether you will need supporting reference information while collecting the data. If a field user needs to confirm that they're within a certain area while collecting the observation,  how will they be able to confirm that? Design and logistics go hand-in-hand. For example, will you be working in an area requiring access to cellular connectivity? Detailed tips and suggestions can be found in a later section on [**Survey Best Practices**](survey-best-practices.md).
+Other things to consider surrounding your survey design include whether you will need supporting reference information while collecting the data. If a field user needs to confirm that they're within a certain area while collecting the observation, how will they be able to verify that? Design and logistics go hand-in-hand. For example, will you be working in an area requiring access to cellular connectivity? Detailed tips and suggestions can be found in a later section on [**Survey Best Practices**](survey-best-practices.md).
 
 ### Protocol <a id="Protocol"></a>
 
