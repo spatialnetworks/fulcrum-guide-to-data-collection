@@ -148,8 +148,7 @@ In GIS, a layer is a graphical representation of geographic data.
 ## Legend
 A map element which helps the user understand the symbology.
 ## Mean
-The average in a set of numbers; add to
-gether the numbers in the set and divide by how many numbers there are.
+The average in a set of numbers; add together the numbers in the set and divide by how many numbers there are.
 ## Median
 The middle number in a set of numbers; if there are two numbers in the middle position, take the average of those.
 ## Metes And Bounds
