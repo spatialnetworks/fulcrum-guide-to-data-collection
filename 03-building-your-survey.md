@@ -48,7 +48,7 @@ The way you format and layout your survey can help save time and reduce the work
 
 ### Handling Changes <a id="changes"></a>
 
-After you deploy a survey to a collection team, there will usually be modifications to make after it's in the field. In the days of pen and paper surveys, this was naturally a hassle to deal with, requiring editing Microsoft Word or PDF templates and re-printing new batches of forms to distribute. As a result, organizations using a method like this are tempted to overload their survey with every possible thing (see the chapter on best practices). Because of the inefficiency of making changes to paper surveys, many positive survey structure changes would never be made.
+After you initially deploy a survey to a collection team, there will usually be modifications to make after it's in the field. In the days of pen and paper surveys, this was naturally a hassle to deal with, requiring editing Microsoft Word or PDF templates and re-printing new batches of forms to distribute. As a result, organizations using a method like this are tempted to overload their survey with every possible thing (see the chapter on best practices). Because of the inefficiency of making changes to paper surveys, many positive survey structure changes would never be made.
 
 With digital tools like Fulcrum, updating survey template structures is more realistic. Given that the survey on a collector's device is digital, syncing with the server allows the user to receive the latest version automatically, without any need for memos or meetings to bring a team up to speed.
 
