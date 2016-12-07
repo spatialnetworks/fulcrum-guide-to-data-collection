@@ -27,7 +27,7 @@ An evaluation by measurements, conducted by a professionally licensed surveyor w
 ## CAD
 Computer-aided design - CAD, utilizes computer software to facilitate drawing, analyzing, and disseminating technical designs. It is typically used in architectural, engineering, and machining workflows.
 ## Calculation Field
-Calculation fields can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs). ([Reference](http://www.fulcrumapp.com/help/calculation-fields/))
+Calculation fields are a feature on the Fulcrum platform and can be used to write simple expressions to calculate values dynamically based on inputs given to other fields in your forms. This can be simple ‘total’ calculations or complex equations referencing other calculation fields and even data contained in repeatable sections. Calculated field expressions can be written in JavaScript, even as complex functions (and entire programs).
 ## Calibration
 Readings and adjustments compared against a standard to ensure accuracy, typically with instruments or equipment.
 ## Cartography
