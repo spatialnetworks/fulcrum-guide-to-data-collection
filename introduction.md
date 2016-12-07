@@ -2,7 +2,7 @@
 
 ![](http://www.fulcrumapp.com/assets/img/fulcrum-logo.svg)
 
-Welcome and thank you for downloading Fulcrum's Ultimate Guide to Data Collection! In this guide, you will find:
+Welcome and thank you for downloading Fulcrum's Guide to Data Collection! In this guide, you will find:
 
 - A guide to learning the ins and outs of data collection
 - Best practices for designing your survey
