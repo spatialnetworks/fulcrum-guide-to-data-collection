@@ -26,7 +26,7 @@ If your data supports your hypothesis, great! If it doesn't, it's never advisabl
 
 ### What data should I collect? <a id="collect"></a>
 
-Next you should break down your desired result into its individual components. Perhaps to answer your questions, your survey needs 25 different data fields. You then need to organize them in a fashion that makes it efficient for a field collector to fill out the survey. People often make 2 major mistakes in this process: They either try to collect everything they can, or as little as they can, and both of these approaches can cause problems.
+Next you should break down your desired result into its individual components. Perhaps to answer your questions, your survey needs to capture 25 different pieces of information. You then need to organize them in a fashion that makes it efficient for a field collector to fill out the survey. People often make 2 major mistakes in this process: They either try to collect everything they can, or as little as they can, and both of these approaches can cause problems.
 
 Collecting too little data can make your survey lack enough information for meaningful answers. Collecting too much data can lead to people terminating a survey midway through. Both have their advantages, of course. A short and sweet survey means rapid data capture, but light on the depth. An incredibly detailed survey maximizes the time in the field with a lot of content in the end, but takes longer to perform. Get a feel for the time it takes to complete the survey by conducting some mock collection. The goal should be to strike the right balance of data depth and efficiency.
 
