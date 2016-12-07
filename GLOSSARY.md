@@ -33,7 +33,7 @@ Readings and adjustments compared against a standard to ensure accuracy, typical
 ## Cartography
 The science of map creation.
 ## Cell
-With spreadsheet or raster data, cells are the intersections of rows and columns.
+With raster data or spreadsheets, cells are the intersections of rows and columns.
 ## Cartographic Generalization
 The process of reducing the detail of the features being represented within a visualization.
 ## Centroid
