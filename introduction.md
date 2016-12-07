@@ -13,7 +13,7 @@ Welcome and thank you for downloading Fulcrum's Guide to Data Collection! In thi
 
 If you've ever wanted to learn how to collect data in the field, or conduct an inspection, or want to know more about administering surveys, this book is for you. If you've never conducted a field survey or collected data before, you'll find the tips you need in this book to confidently conduct your first field data collection and mapping project. 
 
-It's everything you'll need to get started collecting data better with forms and surveys.
+It's everything you'll need to get started collecting better data with forms and surveys.
 
 We hope this will help you better understand the planning and process that goes into any successful data collection and mapping project. As always if you have any questions, concerns, or comments, you can always reach out to us at [info@fulcrumapp.com](mailto:info@fulcrumapp.com)
 
