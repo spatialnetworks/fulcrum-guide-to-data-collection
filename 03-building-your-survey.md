@@ -1,6 +1,6 @@
 # Building Your Survey
 
-The best approach to building a survey is to work backwards. Identify what you want to learn and how you want to measure the results before you begin designing. Much of effective survey design is about not just _what_ to collect, but also _how_ it's collected. Thinking about the end goals keeps you focused on results first, and process second. Starting at the end lets you create a process that matches your desired end state. Once you've identified what "success" looks like, you can analyze the details of what fields you need, what order, and more.
+The best approach to building a survey is to work backwards. Identify what you want to learn and how you want to measure the results before you begin designing. Much of effective survey design is about not just _what_ to collect, but also _how_ it's collected. Thinking about the end goal keeps you focused on results first, and process second. Starting at the end lets you create a process that matches your desired end state. Once you've identified what "success" looks like, you can analyze the details of what fields you need, what order, and more.
 
 * [What do I want to know?](#know)
 * [What metrics should I use?](#metrics)
