@@ -12,7 +12,7 @@ The best approach to building a survey is to work backwards. Identify what you w
 
 ### What do I want to know? <a id="know"></a>
 
-The first step is to identify the information you need to have in the end for success &mdash; for your data to answer all the right questions. By starting at the end, you can visualize how you want to present your information. Create a hypothesis that is testable and measurable, and from that determine what data you need to collect.
+For your data to answer all the right questions, the first step is to identify the information you need to have in the end for success. By starting at the end, you can visualize how you want to present your information. Create a hypothesis that is testable and measurable, and from that determine what data you need to collect.
 
 A project trying to assess "fire risk" may want to map out quantitative information on hydrants and fire prevention equipment within an area. A political poll trying to map out supporters might want to gather qualitative data on opinions and party affiliations without biasing the responses.
 
